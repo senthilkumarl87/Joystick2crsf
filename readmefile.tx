@@ -1,0 +1,9 @@
+
+g++ -std=c++11 -o mavlink_reader mavlink_reader.cpp -lpthread
+
+./mavlink_reader /dev/ttyACM0 57600
+
+
+g++ -std=c++11 -o rc_reader rc_reader.cpp -lpthread
+
+./rc_reader --port /dev/ttyACM0 --baud 57600

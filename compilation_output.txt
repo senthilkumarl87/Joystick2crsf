@@ -1,0 +1,62 @@
+joystick_to_crsf.cpp: In member function ‘std::vector<short unsigned int> JoystickToCRSF::get_crsf_channels()’:
+joystick_to_crsf.cpp:276:33: error: ‘CRSFGenerator::CRSF_CHANNEL_MAP CRSFGenerator::CH_ROLL’ is private within this context
+  276 |         channels[CRSFGenerator::CH_ROLL] = CRSFGenerator::rc_to_crsf(roll);
+      |                                 ^~~~~~~
+joystick_to_crsf.cpp:40:9: note: declared private here
+   40 |         CH_ROLL = 0,
+      |         ^~~~~~~
+joystick_to_crsf.cpp:277:33: error: ‘CRSFGenerator::CRSF_CHANNEL_MAP CRSFGenerator::CH_PITCH’ is private within this context
+  277 |         channels[CRSFGenerator::CH_PITCH] = CRSFGenerator::rc_to_crsf(pitch);
+      |                                 ^~~~~~~~
+joystick_to_crsf.cpp:41:9: note: declared private here
+   41 |         CH_PITCH = 1,
+      |         ^~~~~~~~
+joystick_to_crsf.cpp:278:33: error: ‘CRSFGenerator::CRSF_CHANNEL_MAP CRSFGenerator::CH_THROTTLE’ is private within this context
+  278 |         channels[CRSFGenerator::CH_THROTTLE] = CRSFGenerator::rc_to_crsf(throttle);
+      |                                 ^~~~~~~~~~~
+joystick_to_crsf.cpp:42:9: note: declared private here
+   42 |         CH_THROTTLE = 2,
+      |         ^~~~~~~~~~~
+joystick_to_crsf.cpp:279:33: error: ‘CRSFGenerator::CRSF_CHANNEL_MAP CRSFGenerator::CH_YAW’ is private within this context
+  279 |         channels[CRSFGenerator::CH_YAW] = CRSFGenerator::rc_to_crsf(yaw);
+      |                                 ^~~~~~
+joystick_to_crsf.cpp:43:9: note: declared private here
+   43 |         CH_YAW = 3,
+      |         ^~~~~~
+joystick_to_crsf.cpp:280:33: error: ‘CRSFGenerator::CRSF_CHANNEL_MAP CRSFGenerator::CH_AUX1’ is private within this context
+  280 |         channels[CRSFGenerator::CH_AUX1] = CRSFGenerator::rc_to_crsf(aux1);
+      |                                 ^~~~~~~
+joystick_to_crsf.cpp:44:9: note: declared private here
+   44 |         CH_AUX1 = 4,
+      |         ^~~~~~~
+joystick_to_crsf.cpp:281:33: error: ‘CRSFGenerator::CRSF_CHANNEL_MAP CRSFGenerator::CH_AUX2’ is private within this context
+  281 |         channels[CRSFGenerator::CH_AUX2] = CRSFGenerator::rc_to_crsf(aux2);
+      |                                 ^~~~~~~
+joystick_to_crsf.cpp:45:9: note: declared private here
+   45 |         CH_AUX2 = 5,
+      |         ^~~~~~~
+joystick_to_crsf.cpp:282:33: error: ‘CRSFGenerator::CRSF_CHANNEL_MAP CRSFGenerator::CH_AUX3’ is private within this context
+  282 |         channels[CRSFGenerator::CH_AUX3] = CRSFGenerator::rc_to_crsf(aux3);
+      |                                 ^~~~~~~
+joystick_to_crsf.cpp:46:9: note: declared private here
+   46 |         CH_AUX3 = 6,
+      |         ^~~~~~~
+joystick_to_crsf.cpp:283:33: error: ‘CRSFGenerator::CRSF_CHANNEL_MAP CRSFGenerator::CH_AUX4’ is private within this context
+  283 |         channels[CRSFGenerator::CH_AUX4] = CRSFGenerator::rc_to_crsf(aux4);
+      |                                 ^~~~~~~
+joystick_to_crsf.cpp:47:9: note: declared private here
+   47 |         CH_AUX4 = 7,
+      |         ^~~~~~~
+joystick_to_crsf.cpp: In member function ‘void JoystickToCRSF::run()’:
+joystick_to_crsf.cpp:329:37: error: ‘std::chrono’ has not been declared
+  329 |         auto last_frame_time = std::chrono::steady_clock::now();
+      |                                     ^~~~~~
+joystick_to_crsf.cpp:341:29: error: ‘std::chrono’ has not been declared
+  341 |             auto now = std::chrono::steady_clock::now();
+      |                             ^~~~~~
+joystick_to_crsf.cpp:342:33: error: ‘std::chrono’ has not been declared
+  342 |             auto elapsed = std::chrono::duration_cast<std::chrono::milliseconds>(now - last_frame_time);
+      |                                 ^~~~~~
+joystick_to_crsf.cpp:342:60: error: ‘std::chrono’ has not been declared
+  342 |             auto elapsed = std::chrono::duration_cast<std::chrono::milliseconds>(now - last_frame_time);
+      |                                                            ^~~~~~

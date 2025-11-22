@@ -1,0 +1,10 @@
+wget https://raw.githubusercontent.com/mavlink/c_library_v2/master/common/common.h
+wget https://raw.githubusercontent.com/mavlink/c_library_v2/master/mavlink.h
+wget https://raw.githubusercontent.com/mavlink/c_library_v2/master/protocol.h
+wget https://raw.githubusercontent.com/mavlink/c_library_v2/master/version.h
+wget https://raw.githubusercontent.com/mavlink/c_library_v2/master/common/mavlink_msg_heartbeat.h
+wget https://raw.githubusercontent.com/mavlink/c_library_v2/master/common/mavlink_msg_sys_status.h
+wget https://raw.githubusercontent.com/mavlink/c_library_v2/master/common/mavlink_msg_gps_raw_int.h
+wget https://raw.githubusercontent.com/mavlink/c_library_v2/master/common/mavlink_msg_attitude.h
+wget https://raw.githubusercontent.com/mavlink/c_library_v2/master/common/mavlink_msg_param_value.h
+wget https://raw.githubusercontent.com/mavlink/c_library_v2/master/common/mavlink_msg_battery_status.h

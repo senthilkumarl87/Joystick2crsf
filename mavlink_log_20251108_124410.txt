@@ -1,0 +1,1284 @@
+MAVLink Log Started at: 2025-11-08 12:44:10
+==========================================
+[12:44:10.748] UART port /dev/ttyACM0 initialized at 57600 baud
+[12:44:10.749] Starting MAVLink message reading loop...
+[12:44:10.759] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:10.759] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:10.774] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:10.775] UNKNOWN MSG 105 - Raw: 7d 09 82 db 00 00 00 00 6d 88 c7 bf 72 f3 b2 bd ...
+[12:44:10.775] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:10.775] UNKNOWN MSG 31 - Raw: ac 31 38 00 fe 14 a1 bc 52 48 a3 3d d7 0f b2 3b ...
+[12:44:10.777] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:10.777] UNKNOWN MSG 32 - Raw: a8 31 38 00 1d 59 bb c0 1f c6 4a c0 43 ea 84 c0 ...
+[12:44:10.783] MAVLink Message - SysID: 1, CompID: 1, MsgID: 0, Len: 9
+[12:44:10.783] HEARTBEAT - Type: 2, Autopilot: 12, Mode: 50593792, Status: 0
+[12:44:10.801] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:10.801] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.77°
+[12:44:10.814] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:10.814] UNKNOWN MSG 31 - Raw: d4 31 38 00 4f 2b a1 bc 72 4f a3 3d 60 03 b2 3b ...
+[12:44:10.832] MAVLink Message - SysID: 1, CompID: 1, MsgID: 111, Len: 16
+[12:44:10.833] UNKNOWN MSG 111 - Raw: 00 00 00 00 00 00 00 00 d0 22 75 77 59 03 00 00 
+[12:44:10.833] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:10.833] UNKNOWN MSG 105 - Raw: c9 de 82 db 00 00 00 00 92 5b c8 bf 2e 75 3e bd ...
+[12:44:10.833] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:10.833] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.77°
+[12:44:10.833] MAVLink Message - SysID: 1, CompID: 1, MsgID: 141, Len: 32
+[12:44:10.833] UNKNOWN MSG 141 - Raw: 2b ef 82 db 00 00 00 00 08 5f 33 43 08 5f 33 43 ...
+[12:44:10.833] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:10.833] UNKNOWN MSG 31 - Raw: e3 31 38 00 6d 20 a1 bc 97 51 a3 3d 51 27 b2 3b ...
+[12:44:10.833] MAVLink Message - SysID: 1, CompID: 1, MsgID: 83, Len: 37
+[12:44:10.833] UNKNOWN MSG 83 - Raw: e4 31 38 00 d9 15 9f bc 00 00 00 00 00 00 00 00 ...
+[12:44:10.892] MAVLink Message - SysID: 234, CompID: 1, MsgID: 1, Len: 254
+[12:44:10.892] SYS_STATUS - Voltage: 18.07V, Current: -325.76A, Battery: 222%
+[12:44:10.910] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:10.910] UNKNOWN MSG 32 - Raw: 33 32 38 00 43 5a bb c0 44 c8 4a c0 07 ed 84 c0 ...
+[12:44:10.910] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:10.910] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.77°
+[12:44:10.919] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:10.919] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.77°
+[12:44:10.934] MAVLink Message - SysID: 1, CompID: 1, MsgID: 111, Len: 16
+[12:44:10.934] UNKNOWN MSG 111 - Raw: 00 00 00 00 00 00 00 00 20 90 89 7d 59 03 00 00 
+[12:44:10.934] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:10.934] UNKNOWN MSG 105 - Raw: fc 75 84 db 00 00 00 00 9f 22 c3 bf 0f c3 08 bd ...
+[12:44:10.934] MAVLink Message - SysID: 1, CompID: 1, MsgID: 141, Len: 32
+[12:44:10.934] UNKNOWN MSG 141 - Raw: 8a 7d 84 db 00 00 00 00 08 5f 33 43 08 5f 33 43 ...
+[12:44:10.946] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:10.947] UNKNOWN MSG 32 - Raw: 51 32 38 00 6b 5a bb c0 7c c8 4a c0 73 ed 84 c0 ...
+[12:44:10.952] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:10.952] UNKNOWN MSG 105 - Raw: 8c c3 84 db 00 00 00 00 b0 b2 c5 bf ad 54 3e bd ...
+[12:44:10.952] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:10.952] UNKNOWN MSG 31 - Raw: 5f 32 38 00 d9 1d a1 bc b9 4e a3 3d 14 32 b2 3b ...
+[12:44:10.970] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:10.970] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:10.991] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:10.992] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:11.010] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:11.010] UNKNOWN MSG 32 - Raw: 96 32 38 00 09 5b bb c0 26 ca 4a c0 f3 eb 84 c0 ...
+[12:44:11.031] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:11.031] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:11.034] MAVLink Message - SysID: 1, CompID: 1, MsgID: 85, Len: 51
+[12:44:11.034] UNKNOWN MSG 85 - Raw: aa 32 38 00 00 00 c0 7f 00 00 c0 7f 00 00 c0 7f ...
+[12:44:11.034] MAVLink Message - SysID: 1, CompID: 1, MsgID: 74, Len: 20
+[12:44:11.034] UNKNOWN MSG 74 - Raw: 00 00 00 00 e8 19 fe 3a f8 9f 33 43 4c 68 9a 39 ...
+[12:44:11.050] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:11.050] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.77°
+[12:44:11.059] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:11.060] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.77°
+[12:44:11.078] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:11.078] UNKNOWN MSG 32 - Raw: db 32 38 00 ce 5b bb c0 f6 ca 4a c0 cc e9 84 c0 ...
+[12:44:11.081] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:11.081] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.77°
+[12:44:11.093] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:11.093] UNKNOWN MSG 31 - Raw: ea 32 38 00 8a 0d a1 bc f8 57 a3 3d 4e 5e b2 3b ...
+[12:44:11.097] MAVLink Message - SysID: 1, CompID: 1, MsgID: 76, Len: 33
+[12:44:11.097] UNKNOWN MSG 76 - Raw: 00 80 8d 43 00 00 00 00 00 00 00 00 00 00 00 00 ...
+[12:44:11.112] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:11.112] UNKNOWN MSG 105 - Raw: 0b 30 87 db 00 00 00 00 c0 aa c7 bf 3e 96 c8 bd ...
+[12:44:11.130] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:11.130] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:11.133] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:11.133] UNKNOWN MSG 31 - Raw: 12 33 38 00 6b ef a0 bc 29 58 a3 3d 6a 85 b2 3b ...
+[12:44:11.133] MAVLink Message - SysID: 1, CompID: 1, MsgID: 83, Len: 37
+[12:44:11.133] UNKNOWN MSG 83 - Raw: 0d 33 38 00 5c e3 9e bc 00 00 00 00 00 00 00 00 ...
+[12:44:11.140] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:11.140] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:11.146] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:11.147] UNKNOWN MSG 32 - Raw: 21 33 38 00 74 5c bb c0 4f cc 4a c0 99 e6 84 c0 ...
+[12:44:11.149] MAVLink Message - SysID: 1, CompID: 1, MsgID: 29, Len: 14
+[12:44:11.149] UNKNOWN MSG 29 - Raw: f1 32 38 00 66 f6 77 44 00 00 00 00 ff 0f 
+[12:44:11.149] MAVLink Message - SysID: 1, CompID: 1, MsgID: 2, Len: 12
+[12:44:11.149] UNKNOWN MSG 2 - Raw: f8 00 75 0b 10 43 06 00 24 33 38 00 
+[12:44:11.152] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:11.152] UNKNOWN MSG 105 - Raw: 2a cb 87 db 00 00 00 00 10 32 c9 bf 40 4d b7 bd ...
+[12:44:11.152] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:11.152] UNKNOWN MSG 31 - Raw: 25 33 38 00 44 f0 a0 bc 6d 58 a3 3d 88 83 b2 3b ...
+[12:44:11.170] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:11.170] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:11.177] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:11.177] UNKNOWN MSG 32 - Raw: 3f 33 38 00 a1 5c bb c0 2f cc 4a c0 a4 e5 84 c0 ...
+[12:44:11.195] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:11.195] UNKNOWN MSG 105 - Raw: 4a 66 88 db 00 00 00 00 f1 a0 c7 bf 74 29 f1 bc ...
+[12:44:11.195] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:11.195] UNKNOWN MSG 31 - Raw: 4d 33 38 00 81 f9 a0 bc 7a 5c a3 3d 6b be b2 3b ...
+[12:44:11.214] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:11.215] UNKNOWN MSG 105 - Raw: da b3 88 db 00 00 00 00 6d 88 c7 bf ac 72 71 bd ...
+[12:44:11.215] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:11.215] UNKNOWN MSG 32 - Raw: 5c 33 38 00 dd 5c bb c0 71 cc 4a c0 e0 e4 84 c0 ...
+[12:44:11.215] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:11.216] UNKNOWN MSG 31 - Raw: 61 33 38 00 7d eb a0 bc 8d 5b a3 3d c3 97 b2 3b ...
+[12:44:11.233] MAVLink Message - SysID: 1, CompID: 1, MsgID: 111, Len: 16
+[12:44:11.238] UNKNOWN MSG 111 - Raw: 00 00 00 00 00 00 00 00 48 b6 5b 8f 59 03 00 00 
+[12:44:11.251] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:11.252] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:11.269] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:11.269] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:11.273] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:11.274] UNKNOWN MSG 105 - Raw: 8a 9c 89 db 00 00 00 00 4b 27 c8 bf 3f ae d3 bd ...
+[12:44:11.274] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:11.274] UNKNOWN MSG 31 - Raw: 9d 33 38 00 05 e8 a0 bc 1f 5a a3 3d 06 27 b2 3b ...
+[12:44:11.294] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:11.294] UNKNOWN MSG 105 - Raw: 1a ea 89 db 00 00 00 00 81 b9 c6 bf 82 51 58 bd ...
+[12:44:11.310] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:11.311] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:11.312] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:11.312] UNKNOWN MSG 31 - Raw: c4 33 38 00 ad fd a0 bc 28 5f a3 3d 5e 15 b2 3b ...
+[12:44:11.319] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:11.319] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:11.331] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:11.332] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:11.340] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:11.341] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:11.349] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:11.349] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:11.370] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:11.370] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:11.391] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:11.392] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:11.401] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:11.401] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:11.413] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:11.413] UNKNOWN MSG 105 - Raw: 79 bb 8b db 00 00 00 00 70 57 c6 bf 71 c7 85 bd ...
+[12:44:11.413] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:11.413] UNKNOWN MSG 31 - Raw: 28 34 38 00 58 e9 a0 bc d3 5c a3 3d 0a 27 b2 3b ...
+[12:44:11.435] MAVLink Message - SysID: 1, CompID: 1, MsgID: 111, Len: 16
+[12:44:11.435] UNKNOWN MSG 111 - Raw: 00 00 00 00 00 00 00 00 58 7a 62 9b 59 03 00 00 
+[12:44:11.435] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:11.435] UNKNOWN MSG 105 - Raw: 6d 1c 8c db 00 00 00 00 d4 01 c6 bf 73 97 1d bd ...
+[12:44:11.435] MAVLink Message - SysID: 1, CompID: 1, MsgID: 141, Len: 32
+[12:44:11.435] UNKNOWN MSG 141 - Raw: 30 22 8c db 00 00 00 00 72 08 33 43 72 08 33 43 ...
+[12:44:11.436] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:11.436] UNKNOWN MSG 31 - Raw: 40 34 38 00 ae f9 a0 bc 2c 63 a3 3d c0 37 b2 3b ...
+[12:44:11.436] MAVLink Message - SysID: 1, CompID: 1, MsgID: 83, Len: 37
+[12:44:11.436] UNKNOWN MSG 83 - Raw: 41 34 38 00 5c ee 9e bc 00 00 00 00 00 00 00 00 ...
+[12:44:11.436] MAVLink Message - SysID: 1, CompID: 1, MsgID: 85, Len: 51
+[12:44:11.436] UNKNOWN MSG 85 - Raw: 41 34 38 00 00 00 c0 7f 00 00 c0 7f 00 00 c0 7f ...
+[12:44:11.453] MAVLink Message - SysID: 62, CompID: 162, MsgID: 1, Len: 20
+[12:44:11.453] SYS_STATUS - Voltage: 52.07V, Current: -170.89A, Battery: 214%
+[12:44:11.453] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:11.453] UNKNOWN MSG 31 - Raw: 4f 34 38 00 dd fc a0 bc 03 64 a3 3d 66 0d b2 3b ...
+[12:44:11.471] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:11.471] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:11.480] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:11.481] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:11.501] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:11.501] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:11.520] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:11.520] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:11.532] MAVLink Message - SysID: 1, CompID: 1, MsgID: 111, Len: 16
+[12:44:11.532] UNKNOWN MSG 111 - Raw: 00 00 00 00 00 00 00 00 50 0b 2e a1 59 03 00 00 
+[12:44:11.538] MAVLink Message - SysID: 1, CompID: 1, MsgID: 1, Len: 31
+[12:44:11.538] SYS_STATUS - Voltage: 65.54V, Current: -0.01A, Battery: 0%
+[12:44:11.550] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:11.550] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.77°
+[12:44:11.569] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:11.569] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.77°
+[12:44:11.578] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:11.578] UNKNOWN MSG 32 - Raw: cc 34 38 00 0c 5f bb c0 a9 cd 4a c0 64 db 84 c0 ...
+[12:44:11.590] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:11.591] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.77°
+[12:44:11.599] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:11.599] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:11.611] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:11.611] UNKNOWN MSG 32 - Raw: ea 34 38 00 1d 5f bb c0 c0 cd 4a c0 1d d9 84 c0 ...
+[12:44:11.629] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:11.629] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:11.632] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:11.632] UNKNOWN MSG 31 - Raw: 02 35 38 00 d6 10 a1 bc de 57 a3 3d 38 ee b1 3b ...
+[12:44:11.645] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:11.645] UNKNOWN MSG 32 - Raw: 11 35 38 00 30 5f bb c0 92 cd 4a c0 e8 d3 84 c0 ...
+[12:44:11.654] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:11.654] UNKNOWN MSG 31 - Raw: 1b 35 38 00 8f 27 a1 bc 58 5a a3 3d f0 e2 b1 3b ...
+[12:44:11.669] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:11.669] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.77°
+[12:44:11.679] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:11.679] UNKNOWN MSG 32 - Raw: 2f 35 38 00 47 5f bb c0 4c cd 4a c0 24 d1 84 c0 ...
+[12:44:11.680] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:11.680] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.77°
+[12:44:11.700] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:11.700] ATTITUDE - Roll: 0.44°, Pitch: -9.16°, Yaw: -177.77°
+[12:44:11.713] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:11.713] UNKNOWN MSG 32 - Raw: 57 35 38 00 6c 5f bb c0 5e cd 4a c0 c7 cd 84 c0 ...
+[12:44:11.714] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:11.714] UNKNOWN MSG 31 - Raw: 56 35 38 00 0c 33 a1 bc f6 58 a3 3d ae a8 b1 3b ...
+[12:44:11.734] MAVLink Message - SysID: 1, CompID: 1, MsgID: 111, Len: 16
+[12:44:11.734] UNKNOWN MSG 111 - Raw: 00 00 00 00 00 00 00 00 f0 99 39 ad 59 03 00 00 
+[12:44:11.734] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:11.734] UNKNOWN MSG 105 - Raw: db a7 90 db 00 00 00 00 7c a9 bc bf c2 f3 d2 bd ...
+[12:44:11.742] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:11.743] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.77°
+[12:44:11.746] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:11.746] UNKNOWN MSG 32 - Raw: 74 35 38 00 91 5f bb c0 7a cd 4a c0 72 cb 84 c0 ...
+[12:44:11.753] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:11.753] UNKNOWN MSG 105 - Raw: 6a f5 90 db 00 00 00 00 1c fc cc bf f8 50 e1 bd ...
+[12:44:11.753] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:11.753] UNKNOWN MSG 31 - Raw: 7e 35 38 00 0d 2b a1 bc 91 5e a3 3d 65 c2 b1 3b ...
+[12:44:11.775] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:11.775] UNKNOWN MSG 105 - Raw: fa 42 91 db 00 00 00 00 36 12 c7 bf 43 85 c5 bd ...
+[12:44:11.776] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:11.776] UNKNOWN MSG 31 - Raw: 92 35 38 00 4e 3a a1 bc d2 57 a3 3d 53 e6 b1 3b ...
+[12:44:11.777] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:11.777] UNKNOWN MSG 32 - Raw: 92 35 38 00 66 5f bb c0 31 cd 4a c0 54 c9 84 c0 ...
+[12:44:11.784] MAVLink Message - SysID: 1, CompID: 1, MsgID: 8, Len: 36
+[12:44:11.784] UNKNOWN MSG 8 - Raw: c2 73 91 db 00 00 00 00 98 31 00 00 00 00 00 00 ...
+[12:44:11.802] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:11.802] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.77°
+[12:44:11.830] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:11.831] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.77°
+[12:44:11.833] MAVLink Message - SysID: 1, CompID: 1, MsgID: 83, Len: 37
+[12:44:11.834] UNKNOWN MSG 83 - Raw: cf 35 38 00 18 30 9f bc 00 00 00 00 00 00 00 00 ...
+[12:44:11.834] MAVLink Message - SysID: 1, CompID: 1, MsgID: 85, Len: 51
+[12:44:11.834] UNKNOWN MSG 85 - Raw: cf 35 38 00 00 00 c0 7f 00 00 c0 7f 00 00 c0 7f ...
+[12:44:11.834] MAVLink Message - SysID: 1, CompID: 1, MsgID: 74, Len: 20
+[12:44:11.834] UNKNOWN MSG 74 - Raw: 00 00 00 00 6b c3 28 3b 53 8a 33 43 94 72 f5 b9 ...
+[12:44:11.839] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:11.843] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.77°
+[12:44:11.854] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:11.854] UNKNOWN MSG 105 - Raw: 3a 79 92 db 00 00 00 00 94 32 c7 bf bf 90 b6 bd ...
+[12:44:11.854] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:11.854] UNKNOWN MSG 31 - Raw: e1 35 38 00 3d 2f a1 bc 44 56 a3 3d 03 20 b2 3b ...
+[12:44:11.872] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:11.872] UNKNOWN MSG 105 - Raw: c9 c6 92 db 00 00 00 00 46 1b c4 bf 54 bc 9a bd ...
+[12:44:11.873] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:11.873] UNKNOWN MSG 31 - Raw: f5 35 38 00 50 26 a1 bc b7 52 a3 3d 95 22 b2 3b ...
+[12:44:11.880] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:11.881] UNKNOWN MSG 32 - Raw: f6 35 38 00 42 5f bb c0 9e cc 4a c0 e1 c5 84 c0 ...
+[12:44:11.894] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:11.894] UNKNOWN MSG 105 - Raw: 59 14 93 db 00 00 00 00 fc 87 c5 bf 83 4a ae bd ...
+[12:44:11.894] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:11.894] UNKNOWN MSG 31 - Raw: 09 36 38 00 99 38 a1 bc 8f 56 a3 3d df 3a b2 3b ...
+[12:44:11.911] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:11.912] UNKNOWN MSG 32 - Raw: 1d 36 38 00 68 5f bb c0 4e cc 4a c0 fe c4 84 c0 ...
+[12:44:11.912] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:11.912] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.77°
+[12:44:11.920] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:11.920] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.77°
+[12:44:11.932] MAVLink Message - SysID: 1, CompID: 1, MsgID: 111, Len: 16
+[12:44:11.932] UNKNOWN MSG 111 - Raw: 00 00 00 00 00 00 00 00 70 dd 05 b9 59 03 00 00 
+[12:44:11.933] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:11.933] UNKNOWN MSG 105 - Raw: 79 af 93 db 00 00 00 00 b2 91 c7 bf 60 a3 7a bd ...
+[12:44:11.944] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:11.945] UNKNOWN MSG 32 - Raw: 3b 36 38 00 76 5f bb c0 2a cc 4a c0 3e c4 84 c0 ...
+[12:44:11.954] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:11.955] UNKNOWN MSG 31 - Raw: 45 36 38 00 f0 39 a1 bc 1c 57 a3 3d 66 15 b2 3b ...
+[12:44:11.974] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:11.975] UNKNOWN MSG 105 - Raw: 99 4a 94 db 00 00 00 00 f0 b5 c8 bf ce 8f a0 bd ...
+[12:44:11.975] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:11.975] UNKNOWN MSG 31 - Raw: 58 36 38 00 92 34 a1 bc 9a 56 a3 3d f9 d0 b1 3b ...
+[12:44:11.994] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:11.994] UNKNOWN MSG 105 - Raw: 29 98 94 db 00 00 00 00 ea 4e c9 bf 9e 4e aa bd ...
+[12:44:11.995] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:11.995] UNKNOWN MSG 31 - Raw: 6c 36 38 00 01 33 a1 bc 72 55 a3 3d 89 1a b2 3b ...
+[12:44:12.012] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:12.012] UNKNOWN MSG 105 - Raw: b9 e5 94 db 00 00 00 00 80 68 c7 bf 3f 3d a4 bd ...
+[12:44:12.012] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:12.012] UNKNOWN MSG 32 - Raw: 81 36 38 00 20 5f bb c0 51 cb 4a c0 3d c3 84 c0 ...
+[12:44:12.013] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:12.013] UNKNOWN MSG 31 - Raw: 80 36 38 00 4a 3d a1 bc a4 53 a3 3d e1 22 b2 3b ...
+[12:44:12.033] MAVLink Message - SysID: 1, CompID: 1, MsgID: 111, Len: 16
+[12:44:12.034] UNKNOWN MSG 111 - Raw: 00 00 00 00 00 00 00 00 68 06 0c bf 59 03 00 00 
+[12:44:12.034] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:12.034] UNKNOWN MSG 105 - Raw: 48 33 95 db 00 00 00 00 dc c0 c5 bf 0e fe 5b bd ...
+[12:44:12.051] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:12.051] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.77°
+[12:44:12.060] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:12.060] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.77°
+[12:44:12.080] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:12.080] UNKNOWN MSG 32 - Raw: c6 36 38 00 e2 5e bb c0 e8 ca 4a c0 be c8 84 c0 ...
+[12:44:12.080] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:12.080] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.77°
+[12:44:12.100] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:12.100] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.77°
+[12:44:12.113] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:12.113] UNKNOWN MSG 105 - Raw: 88 69 96 db 00 00 00 00 7a 04 c7 bf 6e 88 ab bd ...
+[12:44:12.113] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:12.113] UNKNOWN MSG 32 - Raw: e4 36 38 00 de 5e bb c0 f3 ca 4a c0 22 cc 84 c0 ...
+[12:44:12.119] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:12.119] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.77°
+[12:44:12.134] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:12.134] UNKNOWN MSG 105 - Raw: 7c ca 96 db 00 00 00 00 8c 96 c8 bf 39 84 9c bd ...
+[12:44:12.134] MAVLink Message - SysID: 1, CompID: 1, MsgID: 141, Len: 32
+[12:44:12.134] UNKNOWN MSG 141 - Raw: 34 ce 96 db 00 00 00 00 43 cb 33 43 43 cb 33 43 ...
+[12:44:12.143] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:12.143] UNKNOWN MSG 32 - Raw: 02 37 38 00 e4 5e bb c0 ee ca 4a c0 ac ce 84 c0 ...
+[12:44:12.150] MAVLink Message - SysID: 1, CompID: 1, MsgID: 230, Len: 42
+[12:44:12.150] UNKNOWN MSG 230 - Raw: 43 07 97 db 00 00 00 00 00 00 c0 7f 00 00 c0 7f ...
+[12:44:12.150] MAVLink Message - SysID: 1, CompID: 1, MsgID: 29, Len: 14
+[12:44:12.150] UNKNOWN MSG 29 - Raw: de 36 38 00 0a f7 77 44 00 00 00 00 ff 0f 
+[12:44:12.150] MAVLink Message - SysID: 1, CompID: 1, MsgID: 2, Len: 12
+[12:44:12.150] UNKNOWN MSG 2 - Raw: 38 43 84 0b 10 43 06 00 0c 37 38 00 
+[12:44:12.161] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:12.162] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.77°
+[12:44:12.174] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:12.175] UNKNOWN MSG 105 - Raw: 38 52 97 db 00 00 00 00 28 b2 c5 bf aa c4 89 bd ...
+[12:44:12.175] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:12.176] UNKNOWN MSG 31 - Raw: 1f 37 38 00 cb 32 a1 bc b4 4e a3 3d df 60 b2 3b ...
+[12:44:12.193] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:12.194] UNKNOWN MSG 105 - Raw: c8 9f 97 db 00 00 00 00 78 a0 c6 bf 88 bc 9a bd ...
+[12:44:12.194] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:12.194] UNKNOWN MSG 31 - Raw: 33 37 38 00 2b 2b a1 bc 24 4f a3 3d b2 87 b2 3b ...
+[12:44:12.212] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:12.212] UNKNOWN MSG 105 - Raw: 57 ed 97 db 00 00 00 00 2c 77 c8 bf c0 01 9d bd ...
+[12:44:12.230] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:12.230] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.77°
+[12:44:12.233] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:12.233] UNKNOWN MSG 105 - Raw: 4b 4e 98 db 00 00 00 00 ba f7 c6 bf 38 6c 91 bd ...
+[12:44:12.245] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:12.245] UNKNOWN MSG 32 - Raw: 65 37 38 00 5b 5e bb c0 62 ca 4a c0 9e d3 84 c0 ...
+[12:44:12.261] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:12.261] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.77°
+[12:44:12.279] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:12.279] UNKNOWN MSG 32 - Raw: 8d 37 38 00 34 5e bb c0 42 ca 4a c0 56 d7 84 c0 ...
+[12:44:12.279] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:12.279] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:12.300] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:12.300] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.77°
+[12:44:12.312] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:12.312] UNKNOWN MSG 32 - Raw: aa 37 38 00 1e 5e bb c0 3c ca 4a c0 a9 d9 84 c0 ...
+[12:44:12.333] MAVLink Message - SysID: 1, CompID: 1, MsgID: 111, Len: 16
+[12:44:12.333] UNKNOWN MSG 111 - Raw: 00 00 00 00 00 00 00 00 c0 4d ec d0 59 03 00 00 
+[12:44:12.333] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:12.333] UNKNOWN MSG 31 - Raw: c3 37 38 00 6c 0e a1 bc 47 4b a3 3d ff 2e b2 3b ...
+[12:44:12.336] MAVLink Message - SysID: 1, CompID: 1, MsgID: 245, Len: 2
+[12:44:12.336] UNKNOWN MSG 245 - Raw: 00 01 
+[12:44:12.351] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:12.351] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:12.370] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:12.370] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:12.392] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:12.393] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:12.394] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:12.395] UNKNOWN MSG 105 - Raw: ca ba 9a db 00 00 00 00 dc 89 c6 bf 67 1e a7 bd ...
+[12:44:12.395] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:12.395] UNKNOWN MSG 31 - Raw: fe 37 38 00 0e 0a a1 bc 52 4d a3 3d 36 5f b2 3b ...
+[12:44:12.412] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:12.412] UNKNOWN MSG 105 - Raw: 5a 08 9b db 00 00 00 00 be 29 c7 bf 11 7b 8e bd ...
+[12:44:12.412] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:12.412] UNKNOWN MSG 32 - Raw: 0e 38 38 00 bd 5d bb c0 3e ca 4a c0 4a db 84 c0 ...
+[12:44:12.430] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:12.430] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:12.433] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:12.433] UNKNOWN MSG 105 - Raw: ea 55 9b db 00 00 00 00 84 cd c7 bf 7e 02 8d bd ...
+[12:44:12.433] MAVLink Message - SysID: 1, CompID: 1, MsgID: 141, Len: 32
+[12:44:12.433] UNKNOWN MSG 141 - Raw: 10 5d 9b db 00 00 00 00 08 5f 33 43 08 5f 33 43 ...
+[12:44:12.451] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:12.451] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:12.469] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:12.469] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:12.481] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:12.481] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:12.493] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:12.493] UNKNOWN MSG 105 - Raw: 99 3e 9c db 00 00 00 00 3c 13 c6 bf 05 a2 a9 bd ...
+[12:44:12.493] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:12.493] UNKNOWN MSG 31 - Raw: 62 38 38 00 fd 08 a1 bc 33 4a a3 3d 00 65 b2 3b ...
+[12:44:12.512] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:12.512] UNKNOWN MSG 105 - Raw: 29 8c 9c db 00 00 00 00 70 ff c9 bf b0 7d aa bd ...
+[12:44:12.513] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:12.513] UNKNOWN MSG 32 - Raw: 71 38 38 00 4f 5d bb c0 14 ca 4a c0 3f da 84 c0 ...
+[12:44:12.513] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:12.513] UNKNOWN MSG 31 - Raw: 76 38 38 00 4b 08 a1 bc c1 4c a3 3d cd 8f b2 3b ...
+[12:44:12.533] MAVLink Message - SysID: 1, CompID: 1, MsgID: 111, Len: 16
+[12:44:12.533] UNKNOWN MSG 111 - Raw: 00 00 00 00 00 00 00 00 d8 0b d8 dc 59 03 00 00 
+[12:44:12.537] MAVLink Message - SysID: 1, CompID: 1, MsgID: 245, Len: 2
+[12:44:12.537] UNKNOWN MSG 245 - Raw: 00 01 
+[12:44:12.547] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:12.547] UNKNOWN MSG 32 - Raw: 99 38 38 00 31 5d bb c0 f9 c9 4a c0 83 da 84 c0 ...
+[12:44:12.552] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:12.552] UNKNOWN MSG 31 - Raw: 9d 38 38 00 b6 07 a1 bc 68 4f a3 3d 5c 5d b2 3b ...
+[12:44:12.574] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:12.574] UNKNOWN MSG 105 - Raw: d9 74 9d db 00 00 00 00 56 09 c8 bf 31 20 87 bd ...
+[12:44:12.575] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:12.575] UNKNOWN MSG 31 - Raw: b1 38 38 00 8a fb a0 bc a0 52 a3 3d 27 53 b2 3b ...
+[12:44:12.580] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:12.580] UNKNOWN MSG 32 - Raw: b6 38 38 00 13 5d bb c0 f1 c9 4a c0 55 da 84 c0 ...
+[12:44:12.580] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:12.580] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:12.600] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:12.600] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:12.609] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:12.610] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:12.619] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:12.619] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:12.634] MAVLink Message - SysID: 1, CompID: 1, MsgID: 141, Len: 32
+[12:44:12.634] UNKNOWN MSG 141 - Raw: 14 6e 9e db 00 00 00 00 f8 9f 33 43 f8 9f 33 43 ...
+[12:44:12.634] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:12.634] UNKNOWN MSG 31 - Raw: ed 38 38 00 70 f7 a0 bc d0 4d a3 3d 1e 98 b2 3b ...
+[12:44:12.649] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:12.649] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:12.669] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:12.669] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:12.681] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:12.681] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:12.699] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:12.699] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:12.714] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:12.714] UNKNOWN MSG 105 - Raw: c8 93 9f db 00 00 00 00 41 28 c6 bf cc 47 92 bd ...
+[12:44:12.714] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:12.714] UNKNOWN MSG 31 - Raw: 3c 39 38 00 01 e4 a0 bc de 50 a3 3d 96 7e b2 3b ...
+[12:44:12.732] MAVLink Message - SysID: 1, CompID: 1, MsgID: 111, Len: 16
+[12:44:12.732] UNKNOWN MSG 111 - Raw: 00 00 00 00 00 00 00 00 78 37 b5 e8 59 03 00 00 
+[12:44:12.735] MAVLink Message - SysID: 1, CompID: 1, MsgID: 245, Len: 2
+[12:44:12.736] UNKNOWN MSG 245 - Raw: 00 01 
+[12:44:12.736] MAVLink Message - SysID: 1, CompID: 1, MsgID: 4, Len: 14
+[12:44:12.736] UNKNOWN MSG 4 - Raw: ef fa 9f db 00 00 00 00 62 0e 00 00 00 00 
+[12:44:12.750] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:12.750] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:12.771] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:12.771] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:12.782] MAVLink Message - SysID: 1, CompID: 1, MsgID: 0, Len: 9
+[12:44:12.782] HEARTBEAT - Type: 2, Autopilot: 12, Mode: 50593792, Status: 0
+[12:44:12.801] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:12.801] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:12.810] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:12.810] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:12.831] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:12.831] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:12.834] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:12.834] UNKNOWN MSG 31 - Raw: b8 39 38 00 b8 e2 a0 bc 5a 57 a3 3d 46 c7 b2 3b ...
+[12:44:12.844] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:12.845] UNKNOWN MSG 32 - Raw: c3 39 38 00 07 5b bb c0 7f c9 4a c0 b5 ce 84 c0 ...
+[12:44:12.853] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:12.853] UNKNOWN MSG 31 - Raw: c7 39 38 00 4b dc a0 bc 18 57 a3 3d 42 e1 b2 3b ...
+[12:44:12.871] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:12.871] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:12.877] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:12.877] UNKNOWN MSG 32 - Raw: e0 39 38 00 d1 5a bb c0 5c c9 4a c0 12 ce 84 c0 ...
+[12:44:12.894] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:12.895] UNKNOWN MSG 105 - Raw: 3a 61 a2 db 00 00 00 00 fb 30 c7 bf b6 e7 88 bd ...
+[12:44:12.895] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:12.895] UNKNOWN MSG 31 - Raw: f4 39 38 00 b9 f5 a0 bc cd 56 a3 3d 67 7b b2 3b ...
+[12:44:12.912] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:12.912] UNKNOWN MSG 105 - Raw: 66 9b a2 db 00 00 00 00 b3 de c5 bf fc 88 88 bd ...
+[12:44:12.912] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:12.912] UNKNOWN MSG 32 - Raw: fe 39 38 00 aa 5a bb c0 3e c9 4a c0 ca cc 84 c0 ...
+[12:44:12.913] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:12.913] UNKNOWN MSG 31 - Raw: 03 3a 38 00 06 ee a0 bc d6 59 a3 3d 99 80 b2 3b ...
+[12:44:12.930] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:12.930] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:12.934] MAVLink Message - SysID: 1, CompID: 1, MsgID: 141, Len: 32
+[12:44:12.934] UNKNOWN MSG 141 - Raw: 67 01 a3 db 00 00 00 00 3b f7 33 43 3b f7 33 43 ...
+[12:44:12.934] MAVLink Message - SysID: 1, CompID: 1, MsgID: 85, Len: 51
+[12:44:12.934] UNKNOWN MSG 85 - Raw: 1c 3a 38 00 00 00 c0 7f 00 00 c0 7f 00 00 c0 7f ...
+[12:44:12.940] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:12.942] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:12.952] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:12.952] UNKNOWN MSG 105 - Raw: 86 36 a3 db 00 00 00 00 2f f4 c7 bf 9a ee 90 bd ...
+[12:44:12.970] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:12.970] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:12.991] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:12.992] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:12.994] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:12.994] UNKNOWN MSG 105 - Raw: 0a e5 a3 db 00 00 00 00 3e f6 c5 bf 61 ca b1 bd ...
+[12:44:13.014] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:13.014] UNKNOWN MSG 105 - Raw: 9b 32 a4 db 00 00 00 00 6f 50 c8 bf 12 1c 8b bd ...
+[12:44:13.014] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:13.014] UNKNOWN MSG 32 - Raw: 6b 3a 38 00 5a 5a bb c0 4d c9 4a c0 52 c9 84 c0 ...
+[12:44:13.034] MAVLink Message - SysID: 1, CompID: 1, MsgID: 111, Len: 16
+[12:44:13.034] UNKNOWN MSG 111 - Raw: 00 00 00 00 00 00 00 00 00 b7 b4 fa 59 03 00 00 
+[12:44:13.034] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:13.034] UNKNOWN MSG 105 - Raw: 29 80 a4 db 00 00 00 00 1e 8f c8 bf 29 94 8c bd ...
+[12:44:13.049] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:13.049] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:13.059] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:13.060] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:13.077] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:13.078] UNKNOWN MSG 32 - Raw: a7 3a 38 00 3f 5a bb c0 29 c9 4a c0 bb c6 84 c0 ...
+[12:44:13.090] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:13.091] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:13.111] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:13.111] UNKNOWN MSG 32 - Raw: c5 3a 38 00 40 5a bb c0 5f c9 4a c0 62 c5 84 c0 ...
+[12:44:13.112] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:13.112] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:13.129] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:13.130] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:13.133] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:13.133] UNKNOWN MSG 31 - Raw: e2 3a 38 00 4f ef a0 bc a9 52 a3 3d f9 43 b2 3b ...
+[12:44:13.136] MAVLink Message - SysID: 1, CompID: 1, MsgID: 1, Len: 31
+[12:44:13.136] SYS_STATUS - Voltage: 65.54V, Current: -0.01A, Battery: 0%
+[12:44:13.151] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:13.151] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:13.155] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:13.156] UNKNOWN MSG 105 - Raw: 89 51 a6 db 00 00 00 00 78 80 c7 bf df 11 7e bd ...
+[12:44:13.156] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:13.156] UNKNOWN MSG 31 - Raw: f6 3a 38 00 eb f3 a0 bc d9 53 a3 3d 86 71 b2 3b ...
+[12:44:13.173] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:13.174] UNKNOWN MSG 105 - Raw: 19 9f a6 db 00 00 00 00 ea 6e c7 bf ec 69 5f bd ...
+[12:44:13.175] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:13.175] UNKNOWN MSG 31 - Raw: 0a 3b 38 00 dc f7 a0 bc 9b 56 a3 3d c8 63 b2 3b ...
+[12:44:13.193] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:13.193] UNKNOWN MSG 31 - Raw: 1e 3b 38 00 19 e6 a0 bc 52 55 a3 3d a3 41 b2 3b ...
+[12:44:13.210] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:13.210] UNKNOWN MSG 32 - Raw: 28 3b 38 00 53 5a bb c0 9f c9 4a c0 c2 c9 84 c0 ...
+[12:44:13.213] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:13.213] UNKNOWN MSG 31 - Raw: 31 3b 38 00 88 de a0 bc bd 52 a3 3d 12 00 b2 3b ...
+[12:44:13.232] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:13.232] UNKNOWN MSG 105 - Raw: c8 87 a7 db 00 00 00 00 57 b7 c8 bf b6 28 cb bd ...
+[12:44:13.242] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:13.242] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:13.244] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:13.244] UNKNOWN MSG 32 - Raw: 50 3b 38 00 4c 5a bb c0 90 c9 4a c0 ab cc 84 c0 ...
+[12:44:13.259] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:13.259] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:13.274] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:13.275] UNKNOWN MSG 105 - Raw: e8 22 a8 db 00 00 00 00 c3 a1 c8 bf 14 71 90 bd ...
+[12:44:13.275] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:13.275] UNKNOWN MSG 31 - Raw: 6d 3b 38 00 b3 d0 a0 bc bf 53 a3 3d 1a b2 b1 3b ...
+[12:44:13.280] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:13.280] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:13.292] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:13.293] UNKNOWN MSG 105 - Raw: 78 70 a8 db 00 00 00 00 44 25 c7 bf 04 70 7e bd ...
+[12:44:13.293] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:13.293] UNKNOWN MSG 31 - Raw: 81 3b 38 00 be d3 a0 bc ff 55 a3 3d 30 b7 b1 3b ...
+[12:44:13.311] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:13.311] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:13.314] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:13.314] UNKNOWN MSG 31 - Raw: 95 3b 38 00 f8 cc a0 bc 21 55 a3 3d d9 a1 b1 3b ...
+[12:44:13.332] MAVLink Message - SysID: 1, CompID: 1, MsgID: 111, Len: 16
+[12:44:13.332] UNKNOWN MSG 111 - Raw: 00 00 00 00 00 00 00 00 68 d9 77 0c 5a 03 00 00 
+[12:44:13.332] MAVLink Message - SysID: 1, CompID: 1, MsgID: 74, Len: 20
+[12:44:13.332] UNKNOWN MSG 74 - Raw: 00 00 00 00 d0 56 fa 3a ad 74 33 43 e2 5a 55 b9 ...
+[12:44:13.338] MAVLink Message - SysID: 1, CompID: 1, MsgID: 1, Len: 31
+[12:44:13.338] SYS_STATUS - Voltage: 65.54V, Current: -0.01A, Battery: 0%
+[12:44:13.344] MAVLink Message - SysID: 1, CompID: 1, MsgID: 241, Len: 32
+[12:44:13.344] UNKNOWN MSG 241 - Raw: e7 43 a9 db 00 00 00 00 37 be 96 2e 52 1c c4 3a ...
+[12:44:13.359] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:13.359] ATTITUDE - Roll: 0.44°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:13.374] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:13.375] UNKNOWN MSG 105 - Raw: b7 a6 a9 db 00 00 00 00 26 2b c7 bf 92 c0 b9 bd ...
+[12:44:13.375] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:13.376] UNKNOWN MSG 31 - Raw: d0 3b 38 00 ef d4 a0 bc 96 51 a3 3d 1c 55 b1 3b ...
+[12:44:13.380] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:13.381] ATTITUDE - Roll: 0.44°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:13.401] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:13.401] ATTITUDE - Roll: 0.44°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:13.411] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:13.411] ATTITUDE - Roll: 0.44°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:13.419] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:13.419] ATTITUDE - Roll: 0.44°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:13.434] MAVLink Message - SysID: 1, CompID: 1, MsgID: 111, Len: 16
+[12:44:13.434] UNKNOWN MSG 111 - Raw: 00 00 00 00 00 00 00 00 e8 bb 8c 12 5a 03 00 00 
+[12:44:13.434] MAVLink Message - SysID: 1, CompID: 1, MsgID: 85, Len: 51
+[12:44:13.434] UNKNOWN MSG 85 - Raw: 0d 3c 38 00 00 00 c0 7f 00 00 c0 7f 00 00 c0 7f ...
+[12:44:13.434] MAVLink Message - SysID: 1, CompID: 1, MsgID: 74, Len: 20
+[12:44:13.434] UNKNOWN MSG 74 - Raw: 00 00 00 00 64 ec d5 3a 08 5f 33 43 1e 0c ea b8 ...
+[12:44:13.450] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:13.450] ATTITUDE - Roll: 0.44°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:13.471] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:13.471] ATTITUDE - Roll: 0.44°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:13.477] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:13.477] UNKNOWN MSG 32 - Raw: 34 3c 38 00 b7 5a bb c0 7e c8 4a c0 bc dc 84 c0 ...
+[12:44:13.490] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:13.491] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:13.499] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:13.499] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:13.514] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:13.514] UNKNOWN MSG 31 - Raw: 60 3c 38 00 38 ce a0 bc 44 54 a3 3d ba b9 b1 3b ...
+[12:44:13.532] MAVLink Message - SysID: 1, CompID: 1, MsgID: 111, Len: 16
+[12:44:13.532] UNKNOWN MSG 111 - Raw: 00 00 00 00 00 00 00 00 80 97 63 18 5a 03 00 00 
+[12:44:13.532] MAVLink Message - SysID: 1, CompID: 1, MsgID: 74, Len: 20
+[12:44:13.532] UNKNOWN MSG 74 - Raw: 00 00 00 00 c6 f8 bb 3a 9e b5 33 43 4e db 29 39 ...
+[12:44:13.544] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:13.544] UNKNOWN MSG 32 - Raw: 79 3c 38 00 eb 5a bb c0 af c7 4a c0 fe dd 84 c0 ...
+[12:44:13.550] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:13.550] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:13.573] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:13.573] UNKNOWN MSG 105 - Raw: 56 ae ac db 00 00 00 00 35 c0 c7 bf 21 62 80 bd ...
+[12:44:13.573] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:13.573] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:13.590] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:13.591] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:13.594] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:13.594] UNKNOWN MSG 105 - Raw: 49 0f ad db 00 00 00 00 7e 1d c7 bf 6b 64 99 bd ...
+[12:44:13.594] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:13.594] UNKNOWN MSG 31 - Raw: b0 3c 38 00 0a d7 a0 bc 0e 55 a3 3d 26 d5 b1 3b ...
+[12:44:13.612] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:13.612] UNKNOWN MSG 105 - Raw: 75 49 ad db 00 00 00 00 30 f7 c7 bf c5 a5 a8 bd ...
+[12:44:13.613] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:13.613] UNKNOWN MSG 32 - Raw: bf 3c 38 00 3e 5b bb c0 4e c7 4a c0 cd dc 84 c0 ...
+[12:44:13.624] MAVLink Message - SysID: 1, CompID: 1, MsgID: 76, Len: 33
+[12:44:13.625] UNKNOWN MSG 76 - Raw: 00 80 8d 43 00 00 00 00 00 00 00 00 00 00 00 00 ...
+[12:44:13.625] MAVLink Message - SysID: 1, CompID: 1, MsgID: 76, Len: 33
+[12:44:13.625] UNKNOWN MSG 76 - Raw: 00 80 8d 43 00 00 00 00 00 00 00 00 00 00 00 00 ...
+[12:44:13.633] MAVLink Message - SysID: 1, CompID: 1, MsgID: 111, Len: 16
+[12:44:13.633] UNKNOWN MSG 111 - Raw: 00 00 00 00 00 00 00 00 e8 5a 69 1e 5a 03 00 00 
+[12:44:13.634] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:13.634] UNKNOWN MSG 105 - Raw: 69 aa ad db 00 00 00 00 72 e2 c9 bf b9 9d 9a bd ...
+[12:44:13.634] MAVLink Message - SysID: 1, CompID: 1, MsgID: 141, Len: 32
+[12:44:13.634] UNKNOWN MSG 141 - Raw: c1 ac ad db 00 00 00 00 53 8a 33 43 53 8a 33 43 ...
+[12:44:13.634] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:13.634] UNKNOWN MSG 31 - Raw: d7 3c 38 00 3b db a0 bc 25 56 a3 3d a5 f4 b1 3b ...
+[12:44:13.649] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:13.649] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:13.661] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:13.662] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:13.679] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:13.679] UNKNOWN MSG 32 - Raw: 04 3d 38 00 39 5b bb c0 37 c6 4a c0 10 dd 84 c0 ...
+[12:44:13.680] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:13.680] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:13.700] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:13.700] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:13.712] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:13.713] UNKNOWN MSG 32 - Raw: 22 3d 38 00 39 5b bb c0 f2 c5 4a c0 c6 dd 84 c0 ...
+[12:44:13.713] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:13.713] UNKNOWN MSG 31 - Raw: 27 3d 38 00 86 da a0 bc c8 56 a3 3d c5 d1 b1 3b ...
+[12:44:13.733] MAVLink Message - SysID: 1, CompID: 1, MsgID: 111, Len: 16
+[12:44:13.734] UNKNOWN MSG 111 - Raw: 00 00 00 00 00 00 00 00 18 ab 60 24 5a 03 00 00 
+[12:44:13.734] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:13.734] UNKNOWN MSG 105 - Raw: 39 2e af db 00 00 00 00 2b db c6 bf 03 e9 b4 bd ...
+[12:44:13.734] MAVLink Message - SysID: 1, CompID: 1, MsgID: 141, Len: 32
+[12:44:13.734] UNKNOWN MSG 141 - Raw: ff 33 af db 00 00 00 00 08 5f 33 43 08 5f 33 43 ...
+[12:44:13.734] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:13.734] UNKNOWN MSG 31 - Raw: 3b 3d 38 00 bd cd a0 bc 45 58 a3 3d 95 f0 b1 3b ...
+[12:44:13.739] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:13.740] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:13.754] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:13.754] UNKNOWN MSG 105 - Raw: c8 7b af db 00 00 00 00 b4 8d c6 bf bc 99 a8 bd ...
+[12:44:13.755] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:13.755] UNKNOWN MSG 31 - Raw: 4f 3d 38 00 b9 c9 a0 bc c1 57 a3 3d 71 20 b2 3b ...
+[12:44:13.774] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:13.774] UNKNOWN MSG 105 - Raw: 58 c9 af db 00 00 00 00 25 0f c7 bf 06 ed 9d bd ...
+[12:44:13.774] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:13.775] UNKNOWN MSG 31 - Raw: 62 3d 38 00 44 c9 a0 bc 39 57 a3 3d e5 52 b2 3b ...
+[12:44:13.792] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:13.793] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:13.811] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:13.811] UNKNOWN MSG 32 - Raw: 85 3d 38 00 54 5b bb c0 26 c5 4a c0 92 e0 84 c0 ...
+[12:44:13.812] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:13.812] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:13.829] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:13.829] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:13.832] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:13.832] UNKNOWN MSG 105 - Raw: 08 b2 b0 db 00 00 00 00 72 fd c7 bf c4 72 96 bd ...
+[12:44:13.844] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:13.844] UNKNOWN MSG 32 - Raw: a3 3d 38 00 4d 5b bb c0 f2 c4 4a c0 da e0 84 c0 ...
+[12:44:13.853] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:13.853] UNKNOWN MSG 31 - Raw: b2 3d 38 00 b3 c6 a0 bc ac 56 a3 3d 24 32 b2 3b ...
+[12:44:13.869] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:13.869] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:13.881] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:13.882] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:13.899] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:13.899] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:13.920] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:13.920] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:13.932] MAVLink Message - SysID: 1, CompID: 1, MsgID: 111, Len: 16
+[12:44:13.932] UNKNOWN MSG 111 - Raw: 00 00 00 00 00 00 00 00 f8 84 3b 30 5a 03 00 00 
+[12:44:13.942] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:13.942] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:13.953] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:13.953] UNKNOWN MSG 105 - Raw: 67 83 b2 db 00 00 00 00 f7 16 c7 bf 4c 12 5d bd ...
+[12:44:13.954] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:13.954] UNKNOWN MSG 31 - Raw: 15 3e 38 00 62 ae a0 bc fe 56 a3 3d 8a 71 b2 3b ...
+[12:44:13.976] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:13.976] UNKNOWN MSG 105 - Raw: f7 d0 b2 db 00 00 00 00 ce 22 c6 bf be 3e 97 bd ...
+[12:44:13.976] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:13.976] UNKNOWN MSG 31 - Raw: 29 3e 38 00 73 ac a0 bc bf 53 a3 3d 69 5a b2 3b ...
+[12:44:13.992] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:13.992] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:14.009] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:14.010] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:14.014] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:14.014] UNKNOWN MSG 105 - Raw: 17 6c b3 db 00 00 00 00 5c 99 c7 bf 93 36 b2 bd ...
+[12:44:14.014] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:14.014] UNKNOWN MSG 32 - Raw: 4d 3e 38 00 20 5b bb c0 7f c4 4a c0 5d dd 84 c0 ...
+[12:44:14.014] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:14.014] UNKNOWN MSG 31 - Raw: 51 3e 38 00 8a 97 a0 bc 2b 53 a3 3d bb 1e b2 3b ...
+[12:44:14.034] MAVLink Message - SysID: 1, CompID: 1, MsgID: 111, Len: 16
+[12:44:14.034] UNKNOWN MSG 111 - Raw: 00 00 00 00 00 00 00 00 20 cf 4f 36 5a 03 00 00 
+[12:44:14.041] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:14.042] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:14.049] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:14.049] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:14.061] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:14.061] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:14.079] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:14.079] UNKNOWN MSG 32 - Raw: 92 3e 38 00 f1 5a bb c0 61 c4 4a c0 69 db 84 c0 ...
+[12:44:14.100] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:14.100] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:14.112] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:14.112] UNKNOWN MSG 105 - Raw: e6 ef b4 db 00 00 00 00 d3 84 c7 bf 4c 83 99 bd ...
+[12:44:14.112] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:14.112] UNKNOWN MSG 32 - Raw: af 3e 38 00 d6 5a bb c0 5e c4 4a c0 82 da 84 c0 ...
+[12:44:14.130] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:14.131] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:14.133] MAVLink Message - SysID: 1, CompID: 1, MsgID: 85, Len: 51
+[12:44:14.133] UNKNOWN MSG 85 - Raw: c3 3e 38 00 00 00 c0 7f 00 00 c0 7f 00 00 c0 7f ...
+[12:44:14.133] MAVLink Message - SysID: 1, CompID: 1, MsgID: 74, Len: 20
+[12:44:14.133] UNKNOWN MSG 74 - Raw: 00 00 00 00 18 ca a9 3a 9e b5 33 43 d3 0c 8b 37 ...
+[12:44:14.145] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:14.146] UNKNOWN MSG 32 - Raw: d7 3e 38 00 c1 5a bb c0 66 c4 4a c0 b1 d9 84 c0 ...
+[12:44:14.156] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:14.156] UNKNOWN MSG 105 - Raw: 6c 9e b5 db 00 00 00 00 f1 ea c6 bf f8 78 b4 bd ...
+[12:44:14.157] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:14.157] UNKNOWN MSG 31 - Raw: e1 3e 38 00 cc 8c a0 bc e4 58 a3 3d 03 30 b2 3b ...
+[12:44:14.170] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:14.170] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:14.191] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:14.192] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:14.201] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:14.201] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:14.213] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:14.214] UNKNOWN MSG 105 - Raw: b5 73 b6 db 00 00 00 00 03 ac c7 bf 4e 13 90 bd ...
+[12:44:14.214] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:14.214] UNKNOWN MSG 31 - Raw: 17 3f 38 00 8f 8d a0 bc a4 5a a3 3d bc 39 b2 3b ...
+[12:44:14.229] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:14.229] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:14.232] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:14.232] UNKNOWN MSG 105 - Raw: 45 c1 b6 db 00 00 00 00 09 ad c7 bf 1c bd 9a bd ...
+[12:44:14.232] MAVLink Message - SysID: 1, CompID: 1, MsgID: 141, Len: 32
+[12:44:14.232] UNKNOWN MSG 141 - Raw: 63 d1 b6 db 00 00 00 00 9e b5 33 43 9e b5 33 43 ...
+[12:44:14.244] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:14.244] UNKNOWN MSG 32 - Raw: 3a 3f 38 00 b1 5a bb c0 ea c4 4a c0 b3 d8 84 c0 ...
+[12:44:14.253] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:14.253] UNKNOWN MSG 31 - Raw: 3f 3f 38 00 19 7f a0 bc 36 5c a3 3d 4e 72 b2 3b ...
+[12:44:14.269] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:14.269] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:14.281] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:14.281] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:14.300] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:14.300] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:14.321] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:14.321] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:14.334] MAVLink Message - SysID: 1, CompID: 1, MsgID: 111, Len: 16
+[12:44:14.334] UNKNOWN MSG 111 - Raw: 00 00 00 00 00 00 00 00 70 53 2d 48 5a 03 00 00 
+[12:44:14.337] MAVLink Message - SysID: 1, CompID: 1, MsgID: 245, Len: 2
+[12:44:14.337] UNKNOWN MSG 245 - Raw: 00 01 
+[12:44:14.341] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:14.342] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:14.352] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:14.352] UNKNOWN MSG 105 - Raw: a4 92 b8 db 00 00 00 00 b8 25 c7 bf e4 e6 a8 bd ...
+[12:44:14.352] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:14.352] UNKNOWN MSG 31 - Raw: a2 3f 38 00 ac 8d a0 bc 3f 61 a3 3d 41 72 b2 3b ...
+[12:44:14.374] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:14.375] UNKNOWN MSG 105 - Raw: 98 f3 b8 db 00 00 00 00 5c 67 c8 bf 57 eb 97 bd ...
+[12:44:14.375] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:14.375] UNKNOWN MSG 31 - Raw: bb 3f 38 00 17 90 a0 bc b3 60 a3 3d 0a 6a b2 3b ...
+[12:44:14.392] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:14.392] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:14.409] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:14.409] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:14.413] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:14.414] UNKNOWN MSG 105 - Raw: b8 8e b9 db 00 00 00 00 72 65 c7 bf fd 90 71 bd ...
+[12:44:14.414] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:14.414] UNKNOWN MSG 32 - Raw: e3 3f 38 00 93 5a bb c0 81 c5 4a c0 a1 de 84 c0 ...
+[12:44:14.414] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:14.414] UNKNOWN MSG 31 - Raw: e3 3f 38 00 f2 8c a0 bc 30 63 a3 3d 06 9a b2 3b ...
+[12:44:14.434] MAVLink Message - SysID: 1, CompID: 1, MsgID: 111, Len: 16
+[12:44:14.434] UNKNOWN MSG 111 - Raw: 00 00 00 00 00 00 00 00 30 fd 26 4e 5a 03 00 00 
+[12:44:14.434] MAVLink Message - SysID: 1, CompID: 1, MsgID: 74, Len: 20
+[12:44:14.434] UNKNOWN MSG 74 - Raw: 00 00 00 00 c6 87 f8 3a f8 9f 33 43 70 b9 32 3a ...
+[12:44:14.449] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:14.449] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:14.453] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:14.453] UNKNOWN MSG 31 - Raw: 0a 40 38 00 5d 80 a0 bc 49 64 a3 3d 4a 97 b2 3b ...
+[12:44:14.475] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:14.476] UNKNOWN MSG 105 - Raw: 67 77 ba db 00 00 00 00 17 44 c7 bf 40 e4 a5 bd ...
+[12:44:14.477] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:14.477] UNKNOWN MSG 31 - Raw: 1e 40 38 00 5a 78 a0 bc 34 64 a3 3d 3c 79 b2 3b ...
+[12:44:14.490] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:14.493] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:14.511] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:14.511] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:14.529] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:14.529] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:14.532] MAVLink Message - SysID: 1, CompID: 1, MsgID: 141, Len: 32
+[12:44:14.532] UNKNOWN MSG 141 - Raw: 3f 65 bb db 00 00 00 00 08 a4 33 43 08 a4 33 43 ...
+[12:44:14.542] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:14.542] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:14.550] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:14.550] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:14.573] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:14.573] UNKNOWN MSG 105 - Raw: 37 fb bb db 00 00 00 00 c8 be c5 bf e0 f1 89 bd ...
+[12:44:14.574] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:14.574] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:14.581] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:14.582] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:14.593] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:14.593] UNKNOWN MSG 31 - Raw: 95 40 38 00 ce 76 a0 bc fd 64 a3 3d 87 e6 b2 3b ...
+[12:44:14.612] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:14.612] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:14.628] MAVLink Message - SysID: 1, CompID: 1, MsgID: 76, Len: 33
+[12:44:14.628] UNKNOWN MSG 76 - Raw: 00 80 8d 43 00 00 00 00 00 00 00 00 00 00 00 00 ...
+[12:44:14.633] MAVLink Message - SysID: 1, CompID: 1, MsgID: 141, Len: 32
+[12:44:14.633] UNKNOWN MSG 141 - Raw: 56 eb bc db 00 00 00 00 72 08 33 43 72 08 33 43 ...
+[12:44:14.633] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:14.633] UNKNOWN MSG 31 - Raw: bd 40 38 00 59 77 a0 bc 0b 5f a3 3d 0a ca b2 3b ...
+[12:44:14.633] MAVLink Message - SysID: 1, CompID: 1, MsgID: 83, Len: 37
+[12:44:14.633] UNKNOWN MSG 83 - Raw: be 40 38 00 e1 67 9e bc 00 00 00 00 00 00 00 00 ...
+[12:44:14.633] MAVLink Message - SysID: 1, CompID: 1, MsgID: 85, Len: 51
+[12:44:14.633] UNKNOWN MSG 85 - Raw: be 40 38 00 00 00 c0 7f 00 00 c0 7f 00 00 c0 7f ...
+[12:44:14.634] MAVLink Message - SysID: 1, CompID: 1, MsgID: 74, Len: 20
+[12:44:14.634] UNKNOWN MSG 74 - Raw: 00 00 00 00 7c 02 ec 3a 72 08 33 43 ec 53 0a 3a ...
+[12:44:14.645] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:14.645] UNKNOWN MSG 32 - Raw: c7 40 38 00 45 5b bb c0 dc c6 4a c0 53 f2 84 c0 ...
+[12:44:14.653] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:14.655] UNKNOWN MSG 105 - Raw: 76 31 bd db 00 00 00 00 3a a3 c7 bf 96 35 89 bd ...
+[12:44:14.655] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:14.655] UNKNOWN MSG 31 - Raw: d1 40 38 00 a4 79 a0 bc fb 61 a3 3d f7 bd b2 3b ...
+[12:44:14.676] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:14.677] UNKNOWN MSG 105 - Raw: 6a 92 bd db 00 00 00 00 11 a9 c8 bf 2f 67 92 bd ...
+[12:44:14.677] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:14.677] UNKNOWN MSG 31 - Raw: ea 40 38 00 b4 8b a0 bc 86 64 a3 3d f3 7f b2 3b ...
+[12:44:14.692] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:14.692] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:14.701] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:14.701] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:14.721] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:14.721] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:14.733] MAVLink Message - SysID: 1, CompID: 1, MsgID: 111, Len: 16
+[12:44:14.733] UNKNOWN MSG 111 - Raw: 00 00 00 00 00 00 00 00 c0 65 f9 5f 5a 03 00 00 
+[12:44:14.733] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:14.734] UNKNOWN MSG 105 - Raw: b6 67 be db 00 00 00 00 fd 96 c7 bf 4a 90 90 bd ...
+[12:44:14.736] MAVLink Message - SysID: 1, CompID: 1, MsgID: 1, Len: 31
+[12:44:14.736] SYS_STATUS - Voltage: 65.54V, Current: -0.01A, Battery: 0%
+[12:44:14.745] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:14.745] UNKNOWN MSG 32 - Raw: 2b 41 38 00 97 5b bb c0 f0 c6 4a c0 a7 f9 84 c0 ...
+[12:44:14.760] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:14.760] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:14.778] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:14.779] UNKNOWN MSG 32 - Raw: 49 41 38 00 b7 5b bb c0 0f c7 4a c0 d7 f8 84 c0 ...
+[12:44:14.784] MAVLink Message - SysID: 1, CompID: 1, MsgID: 0, Len: 9
+[12:44:14.784] HEARTBEAT - Type: 2, Autopilot: 12, Mode: 50593792, Status: 0
+[12:44:14.785] MAVLink Message - SysID: 1, CompID: 1, MsgID: 8, Len: 36
+[12:44:14.785] UNKNOWN MSG 8 - Raw: bd 3c bf db 00 00 00 00 05 32 00 00 00 00 00 00 ...
+[12:44:14.811] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:14.811] UNKNOWN MSG 32 - Raw: 70 41 38 00 eb 5b bb c0 16 c7 4a c0 c8 f7 84 c0 ...
+[12:44:14.811] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:14.811] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:14.820] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:14.820] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:14.833] MAVLink Message - SysID: 1, CompID: 1, MsgID: 111, Len: 16
+[12:44:14.833] UNKNOWN MSG 111 - Raw: 00 00 00 00 00 00 00 00 60 44 f2 65 5a 03 00 00 
+[12:44:14.851] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:14.851] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:14.870] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:14.871] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:14.879] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:14.880] UNKNOWN MSG 32 - Raw: b6 41 38 00 4a 5c bb c0 cd c7 4a c0 75 f7 84 c0 ...
+[12:44:14.880] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:14.880] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:14.894] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:14.894] UNKNOWN MSG 31 - Raw: c4 41 38 00 aa a4 a0 bc 52 6a a3 3d 67 ab b2 3b ...
+[12:44:14.910] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:14.910] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:14.912] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:14.913] UNKNOWN MSG 31 - Raw: d3 41 38 00 a0 ac a0 bc 78 6c a3 3d cb 98 b2 3b ...
+[12:44:14.934] MAVLink Message - SysID: 1, CompID: 1, MsgID: 111, Len: 16
+[12:44:14.934] UNKNOWN MSG 111 - Raw: 00 00 00 00 00 00 00 00 30 d9 f5 6b 5a 03 00 00 
+[12:44:14.935] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:14.935] UNKNOWN MSG 105 - Raw: b8 82 c1 db 00 00 00 00 c7 73 c5 bf e8 0a 79 bd ...
+[12:44:14.935] MAVLink Message - SysID: 1, CompID: 1, MsgID: 141, Len: 32
+[12:44:14.935] UNKNOWN MSG 141 - Raw: d3 86 c1 db 00 00 00 00 bd 33 33 43 bd 33 33 43 ...
+[12:44:14.935] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:14.935] UNKNOWN MSG 31 - Raw: ec 41 38 00 d6 b6 a0 bc cf 6b a3 3d 08 b0 b2 3b ...
+[12:44:14.941] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:14.943] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:14.950] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:14.950] ATTITUDE - Roll: 0.45°, Pitch: -9.17°, Yaw: -177.78°
+[12:44:14.969] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:14.969] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:14.981] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:14.982] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:14.999] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:15.000] ATTITUDE - Roll: 0.45°, Pitch: -9.17°, Yaw: -177.78°
+[12:44:15.021] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:15.022] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:15.033] MAVLink Message - SysID: 1, CompID: 1, MsgID: 111, Len: 16
+[12:44:15.033] UNKNOWN MSG 111 - Raw: 00 00 00 00 00 00 00 00 d0 23 dd 71 5a 03 00 00 
+[12:44:15.033] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:15.034] UNKNOWN MSG 105 - Raw: 88 06 c3 db 00 00 00 00 9d a2 c7 bf 3a 12 93 bd ...
+[12:44:15.034] MAVLink Message - SysID: 1, CompID: 1, MsgID: 141, Len: 32
+[12:44:15.034] UNKNOWN MSG 141 - Raw: b4 09 c3 db 00 00 00 00 43 cb 33 43 43 cb 33 43 ...
+[12:44:15.049] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:15.050] ATTITUDE - Roll: 0.45°, Pitch: -9.17°, Yaw: -177.78°
+[12:44:15.061] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:15.062] ATTITUDE - Roll: 0.45°, Pitch: -9.17°, Yaw: -177.78°
+[12:44:15.076] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:15.076] UNKNOWN MSG 105 - Raw: a7 a1 c3 db 00 00 00 00 b8 9d ca bf d7 e9 72 bd ...
+[12:44:15.076] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:15.076] UNKNOWN MSG 31 - Raw: 77 42 38 00 a8 be a0 bc eb 75 a3 3d 4c 97 b2 3b ...
+[12:44:15.079] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:15.080] UNKNOWN MSG 32 - Raw: 7c 42 38 00 5d 5d bb c0 f5 c7 4a c0 8b f7 84 c0 ...
+[12:44:15.080] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:15.080] ATTITUDE - Roll: 0.45°, Pitch: -9.17°, Yaw: -177.78°
+[12:44:15.100] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:15.100] ATTITUDE - Roll: 0.45°, Pitch: -9.17°, Yaw: -177.78°
+[12:44:15.112] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:15.113] UNKNOWN MSG 31 - Raw: 9f 42 38 00 89 b3 a0 bc 26 74 a3 3d ae 6e b2 3b ...
+[12:44:15.130] MAVLink Message - SysID: 1, CompID: 1, MsgID: 76, Len: 33
+[12:44:15.130] UNKNOWN MSG 76 - Raw: 00 80 8d 43 00 00 00 00 00 00 00 00 00 00 00 00 ...
+[12:44:15.131] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:15.131] ATTITUDE - Roll: 0.45°, Pitch: -9.17°, Yaw: -177.78°
+[12:44:15.133] MAVLink Message - SysID: 1, CompID: 1, MsgID: 85, Len: 51
+[12:44:15.133] UNKNOWN MSG 85 - Raw: ae 42 38 00 00 00 c0 7f 00 00 c0 7f 00 00 c0 7f ...
+[12:44:15.133] MAVLink Message - SysID: 1, CompID: 1, MsgID: 74, Len: 20
+[12:44:15.134] UNKNOWN MSG 74 - Raw: 00 00 00 00 cb 45 24 3b f8 9f 33 43 7b 79 f3 39 ...
+[12:44:15.145] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:15.146] UNKNOWN MSG 32 - Raw: b8 42 38 00 88 5d bb c0 ca c7 4a c0 b4 f5 84 c0 ...
+[12:44:15.158] MAVLink Message - SysID: 1, CompID: 1, MsgID: 42, Len: 2
+[12:44:15.159] UNKNOWN MSG 42 - Raw: 00 00 
+[12:44:15.174] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:15.174] UNKNOWN MSG 105 - Raw: 76 25 c5 db 00 00 00 00 82 7a c8 bf cd ed a3 bd ...
+[12:44:15.175] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:15.175] UNKNOWN MSG 31 - Raw: da 42 38 00 2a b8 a0 bc b4 72 a3 3d dc 05 b2 3b ...
+[12:44:15.194] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:15.195] UNKNOWN MSG 105 - Raw: 06 73 c5 db 00 00 00 00 2b 60 c5 bf 48 07 9f bd ...
+[12:44:15.195] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:15.195] UNKNOWN MSG 31 - Raw: ee 42 38 00 d1 ba a0 bc fe 72 a3 3d 73 e8 b1 3b ...
+[12:44:15.213] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:15.213] UNKNOWN MSG 105 - Raw: 96 c0 c5 db 00 00 00 00 a7 42 c7 bf 95 6e ad bd ...
+[12:44:15.214] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:15.214] UNKNOWN MSG 31 - Raw: 02 43 38 00 53 bc a0 bc 77 77 a3 3d 17 f4 b1 3b ...
+[12:44:15.234] MAVLink Message - SysID: 1, CompID: 1, MsgID: 111, Len: 16
+[12:44:15.234] UNKNOWN MSG 111 - Raw: 00 00 00 00 00 00 00 00 18 09 d6 7d 5a 03 00 00 
+[12:44:15.250] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:15.250] ATTITUDE - Roll: 0.45°, Pitch: -9.17°, Yaw: -177.78°
+[12:44:15.269] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:15.269] ATTITUDE - Roll: 0.45°, Pitch: -9.17°, Yaw: -177.78°
+[12:44:15.281] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:15.282] ATTITUDE - Roll: 0.45°, Pitch: -9.17°, Yaw: -177.78°
+[12:44:15.300] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:15.300] ATTITUDE - Roll: 0.45°, Pitch: -9.17°, Yaw: -177.78°
+[12:44:15.312] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:15.312] UNKNOWN MSG 31 - Raw: 65 43 38 00 cd ce a0 bc c1 79 a3 3d f5 fb b1 3b ...
+[12:44:15.330] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:15.330] ATTITUDE - Roll: 0.45°, Pitch: -9.17°, Yaw: -177.78°
+[12:44:15.333] MAVLink Message - SysID: 1, CompID: 1, MsgID: 83, Len: 37
+[12:44:15.333] UNKNOWN MSG 83 - Raw: 75 43 38 00 9c cd 9e bc 00 00 00 00 00 00 00 00 ...
+[12:44:15.333] MAVLink Message - SysID: 1, CompID: 1, MsgID: 85, Len: 51
+[12:44:15.333] UNKNOWN MSG 85 - Raw: 75 43 38 00 00 00 c0 7f 00 00 c0 7f 00 00 c0 7f ...
+[12:44:15.339] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:15.340] ATTITUDE - Roll: 0.45°, Pitch: -9.17°, Yaw: -177.78°
+[12:44:15.342] MAVLink Message - SysID: 1, CompID: 1, MsgID: 147, Len: 36
+[12:44:15.342] BATTERY - ID: 0, Remaining: -1%, Temp: 327.67°C
+[12:44:15.343] MAVLink Message - SysID: 1, CompID: 1, MsgID: 241, Len: 32
+[12:44:15.343] UNKNOWN MSG 241 - Raw: 67 c0 c7 db 00 00 00 00 6c 4d ac 2e 31 89 d6 3a ...
+[12:44:15.351] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:15.351] ATTITUDE - Roll: 0.45°, Pitch: -9.17°, Yaw: -177.78°
+[12:44:15.360] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:15.360] ATTITUDE - Roll: 0.45°, Pitch: -9.17°, Yaw: -177.78°
+[12:44:15.372] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:15.373] UNKNOWN MSG 105 - Raw: 15 2d c8 db 00 00 00 00 de 09 c5 bf 9b d8 ea bd ...
+[12:44:15.373] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:15.373] UNKNOWN MSG 31 - Raw: a1 43 38 00 45 d4 a0 bc 7a 79 a3 3d 22 f9 b1 3b ...
+[12:44:15.379] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:15.379] UNKNOWN MSG 32 - Raw: a6 43 38 00 64 5e bb c0 1e c8 4a c0 11 fd 84 c0 ...
+[12:44:15.379] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:15.379] ATTITUDE - Roll: 0.45°, Pitch: -9.17°, Yaw: -177.78°
+[12:44:15.400] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:15.400] ATTITUDE - Roll: 0.45°, Pitch: -9.17°, Yaw: -177.78°
+[12:44:15.412] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:15.412] UNKNOWN MSG 105 - Raw: 35 c8 c8 db 00 00 00 00 78 83 c5 bf 49 6f 32 bd ...
+[12:44:15.413] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:15.413] UNKNOWN MSG 32 - Raw: c4 43 38 00 7e 5e bb c0 f5 c7 4a c0 38 fe 84 c0 ...
+[12:44:15.413] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:15.413] UNKNOWN MSG 31 - Raw: c9 43 38 00 a0 e7 a0 bc 84 86 a3 3d 44 e8 b1 3b ...
+[12:44:15.434] MAVLink Message - SysID: 1, CompID: 1, MsgID: 111, Len: 16
+[12:44:15.434] UNKNOWN MSG 111 - Raw: 00 00 00 00 00 00 00 00 40 6b c2 89 5a 03 00 00 
+[12:44:15.434] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:15.434] UNKNOWN MSG 105 - Raw: c5 15 c9 db 00 00 00 00 d0 9d c8 bf 49 fd 8d bd ...
+[12:44:15.434] MAVLink Message - SysID: 1, CompID: 1, MsgID: 141, Len: 32
+[12:44:15.434] UNKNOWN MSG 141 - Raw: bd 27 c9 db 00 00 00 00 43 cb 33 43 43 cb 33 43 ...
+[12:44:15.449] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:15.449] ATTITUDE - Roll: 0.45°, Pitch: -9.17°, Yaw: -177.78°
+[12:44:15.461] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:15.461] ATTITUDE - Roll: 0.45°, Pitch: -9.17°, Yaw: -177.78°
+[12:44:15.474] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:15.475] UNKNOWN MSG 105 - Raw: e7 b0 c9 db 00 00 00 00 ac 0b ca bf 8e 34 a9 bd ...
+[12:44:15.475] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:15.475] UNKNOWN MSG 31 - Raw: 04 44 38 00 8d dc a0 bc 20 7f a3 3d fa 9f b1 3b ...
+[12:44:15.494] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:15.495] UNKNOWN MSG 105 - Raw: 74 fe c9 db 00 00 00 00 b7 68 cb bf aa 68 04 be ...
+[12:44:15.495] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:15.495] UNKNOWN MSG 31 - Raw: 18 44 38 00 98 e8 a0 bc e9 7e a3 3d ea 84 b1 3b ...
+[12:44:15.510] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:15.510] ATTITUDE - Roll: 0.44°, Pitch: -9.17°, Yaw: -177.78°
+[12:44:15.519] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:15.519] ATTITUDE - Roll: 0.44°, Pitch: -9.17°, Yaw: -177.78°
+[12:44:15.536] MAVLink Message - SysID: 1, CompID: 1, MsgID: 111, Len: 16
+[12:44:15.536] UNKNOWN MSG 111 - Raw: 00 00 00 00 00 00 00 00 b0 c1 d2 8f 5a 03 00 00 
+[12:44:15.536] MAVLink Message - SysID: 1, CompID: 1, MsgID: 74, Len: 20
+[12:44:15.536] UNKNOWN MSG 74 - Raw: 00 00 00 00 84 4c 19 3b f8 9f 33 43 dd 5c eb 39 ...
+[12:44:15.551] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:15.551] ATTITUDE - Roll: 0.44°, Pitch: -9.17°, Yaw: -177.78°
+[12:44:15.569] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:15.569] ATTITUDE - Roll: 0.44°, Pitch: -9.17°, Yaw: -177.77°
+[12:44:15.581] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:15.582] ATTITUDE - Roll: 0.44°, Pitch: -9.17°, Yaw: -177.78°
+[12:44:15.593] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:15.593] UNKNOWN MSG 105 - Raw: 44 82 cb db 00 00 00 00 12 8e c9 bf 04 ab ca bd ...
+[12:44:15.593] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:15.593] UNKNOWN MSG 31 - Raw: 7b 44 38 00 e6 0c a1 bc f0 7e a3 3d 29 27 b1 3b ...
+[12:44:15.615] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:15.615] UNKNOWN MSG 105 - Raw: 37 e3 cb db 00 00 00 00 1d f6 c7 bf 7e bc e3 bd ...
+[12:44:15.615] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:15.615] UNKNOWN MSG 31 - Raw: 94 44 38 00 22 10 a1 bc 3c 84 a3 3d 68 10 b1 3b ...
+[12:44:15.630] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:15.630] ATTITUDE - Roll: 0.44°, Pitch: -9.17°, Yaw: -177.77°
+[12:44:15.635] MAVLink Message - SysID: 1, CompID: 1, MsgID: 83, Len: 37
+[12:44:15.635] UNKNOWN MSG 83 - Raw: a9 44 38 00 19 1a 9f bc 00 00 00 00 00 00 00 00 ...
+[12:44:15.644] MAVLink Message - SysID: 1, CompID: 1, MsgID: 76, Len: 33
+[12:44:15.644] UNKNOWN MSG 76 - Raw: 00 80 8d 43 00 00 00 00 00 00 00 00 00 00 00 00 ...
+[12:44:15.644] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:15.645] UNKNOWN MSG 32 - Raw: b2 44 38 00 f6 5e bb c0 b0 c6 4a c0 f1 07 85 c0 ...
+[12:44:15.654] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:15.655] UNKNOWN MSG 105 - Raw: 57 7e cc db 00 00 00 00 80 7f c6 bf d4 b9 5c bd ...
+[12:44:15.655] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:15.655] UNKNOWN MSG 31 - Raw: bc 44 38 00 89 2e a1 bc dd 88 a3 3d d5 44 b1 3b ...
+[12:44:15.670] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:15.670] ATTITUDE - Roll: 0.44°, Pitch: -9.17°, Yaw: -177.77°
+[12:44:15.681] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:15.681] ATTITUDE - Roll: 0.44°, Pitch: -9.17°, Yaw: -177.77°
+[12:44:15.700] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:15.700] ATTITUDE - Roll: 0.44°, Pitch: -9.17°, Yaw: -177.77°
+[12:44:15.712] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:15.712] UNKNOWN MSG 105 - Raw: a3 53 cd db 00 00 00 00 85 44 c9 bf 4c 2d a4 bd ...
+[12:44:15.712] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:15.712] UNKNOWN MSG 32 - Raw: ee 44 38 00 30 5f bb c0 9f c6 4a c0 ec 0a 85 c0 ...
+[12:44:15.712] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:15.713] UNKNOWN MSG 31 - Raw: f2 44 38 00 72 1c a1 bc 1d 88 a3 3d 4f 4b b1 3b ...
+[12:44:15.730] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:15.731] ATTITUDE - Roll: 0.44°, Pitch: -9.17°, Yaw: -177.77°
+[12:44:15.734] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:15.734] UNKNOWN MSG 31 - Raw: 0b 45 38 00 25 15 a1 bc 71 86 a3 3d 25 62 b1 3b ...
+[12:44:15.734] MAVLink Message - SysID: 1, CompID: 1, MsgID: 83, Len: 37
+[12:44:15.734] UNKNOWN MSG 83 - Raw: 0c 45 38 00 58 0e 9f bc 00 00 00 00 00 00 00 00 ...
+[12:44:15.734] MAVLink Message - SysID: 1, CompID: 1, MsgID: 85, Len: 51
+[12:44:15.734] UNKNOWN MSG 85 - Raw: 0c 45 38 00 00 00 c0 7f 00 00 c0 7f 00 00 c0 7f ...
+[12:44:15.745] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:15.746] UNKNOWN MSG 32 - Raw: 15 45 38 00 1d 5f bb c0 42 c6 4a c0 bd 0c 85 c0 ...
+[12:44:15.760] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:15.761] ATTITUDE - Roll: 0.44°, Pitch: -9.17°, Yaw: -177.77°
+[12:44:15.774] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:15.774] UNKNOWN MSG 31 - Raw: 33 45 38 00 18 2c a1 bc 6f 87 a3 3d a4 fd b0 3b ...
+[12:44:15.782] MAVLink Message - SysID: 1, CompID: 1, MsgID: 0, Len: 9
+[12:44:15.782] HEARTBEAT - Type: 2, Autopilot: 12, Mode: 50593792, Status: 0
+[12:44:15.794] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:15.795] UNKNOWN MSG 105 - Raw: 46 9d ce db 00 00 00 00 16 0a ca bf 24 95 37 bd ...
+[12:44:15.795] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:15.795] UNKNOWN MSG 31 - Raw: 47 45 38 00 b5 31 a1 bc 70 86 a3 3d 26 24 b1 3b ...
+[12:44:15.813] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:15.813] UNKNOWN MSG 105 - Raw: d6 ea ce db 00 00 00 00 18 18 c4 bf 12 eb 3f bd ...
+[12:44:15.813] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:15.813] UNKNOWN MSG 32 - Raw: 5b 45 38 00 37 5f bb c0 2b c5 4a c0 23 10 85 c0 ...
+[12:44:15.819] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:15.819] ATTITUDE - Roll: 0.44°, Pitch: -9.17°, Yaw: -177.77°
+[12:44:15.833] MAVLink Message - SysID: 1, CompID: 1, MsgID: 111, Len: 16
+[12:44:15.833] UNKNOWN MSG 111 - Raw: 00 00 00 00 00 00 00 00 98 6a 8a a1 5a 03 00 00 
+[12:44:15.833] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:15.833] UNKNOWN MSG 105 - Raw: 67 38 cf db 00 00 00 00 a6 8e c6 bf 9c 84 99 bd ...
+[12:44:15.851] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:15.851] ATTITUDE - Roll: 0.44°, Pitch: -9.17°, Yaw: -177.78°
+[12:44:15.860] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:15.860] ATTITUDE - Roll: 0.44°, Pitch: -9.17°, Yaw: -177.78°
+[12:44:15.873] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:15.874] UNKNOWN MSG 105 - Raw: 86 d3 cf db 00 00 00 00 f7 df c8 bf 97 cd c3 bd ...
+[12:44:15.874] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:15.874] UNKNOWN MSG 31 - Raw: 96 45 38 00 2f 0f a1 bc 9f 7e a3 3d 5c 4f b1 3b ...
+[12:44:15.892] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:15.892] ATTITUDE - Roll: 0.44°, Pitch: -9.17°, Yaw: -177.78°
+[12:44:15.895] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:15.895] UNKNOWN MSG 105 - Raw: 16 21 d0 db 00 00 00 00 e6 ef c5 bf b4 d2 99 bd ...
+[12:44:15.895] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:15.895] UNKNOWN MSG 31 - Raw: aa 45 38 00 6c 13 a1 bc 64 82 a3 3d 60 8f b1 3b ...
+[12:44:15.913] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:15.913] UNKNOWN MSG 105 - Raw: a5 6e d0 db 00 00 00 00 84 30 c6 bf a5 c6 2d bd ...
+[12:44:15.913] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:15.914] UNKNOWN MSG 32 - Raw: be 45 38 00 db 5f bb c0 40 c4 4a c0 1e 14 85 c0 ...
+[12:44:15.914] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:15.914] UNKNOWN MSG 31 - Raw: be 45 38 00 93 14 a1 bc 1d 83 a3 3d a5 73 b1 3b ...
+[12:44:15.933] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:15.933] UNKNOWN MSG 105 - Raw: 35 bc d0 db 00 00 00 00 3b 6f c7 bf 69 49 66 bd ...
+[12:44:15.933] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:15.933] ATTITUDE - Roll: 0.44°, Pitch: -9.17°, Yaw: -177.78°
+[12:44:15.933] MAVLink Message - SysID: 1, CompID: 1, MsgID: 141, Len: 32
+[12:44:15.933] UNKNOWN MSG 141 - Raw: eb c3 d0 db 00 00 00 00 9e b5 33 43 9e b5 33 43 ...
+[12:44:15.945] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:15.945] UNKNOWN MSG 32 - Raw: dc 45 38 00 f2 5f bb c0 e2 c3 4a c0 fa 15 85 c0 ...
+[12:44:15.952] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:15.952] UNKNOWN MSG 31 - Raw: e6 45 38 00 0e 00 a1 bc 25 83 a3 3d 52 5c b1 3b ...
+[12:44:15.970] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:15.970] ATTITUDE - Roll: 0.44°, Pitch: -9.17°, Yaw: -177.78°
+[12:44:15.992] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:15.992] UNKNOWN MSG 105 - Raw: e5 a4 d1 db 00 00 00 00 be b8 c8 bf bd be c6 bd ...
+[12:44:15.992] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:15.992] ATTITUDE - Roll: 0.44°, Pitch: -9.17°, Yaw: -177.78°
+[12:44:15.992] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:15.992] UNKNOWN MSG 31 - Raw: 0d 46 38 00 1d f4 a0 bc 73 7e a3 3d 76 80 b1 3b ...
+[12:44:16.001] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:16.001] ATTITUDE - Roll: 0.44°, Pitch: -9.17°, Yaw: -177.78°
+[12:44:16.019] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:16.019] ATTITUDE - Roll: 0.44°, Pitch: -9.17°, Yaw: -177.78°
+[12:44:16.034] MAVLink Message - SysID: 1, CompID: 1, MsgID: 141, Len: 32
+[12:44:16.034] UNKNOWN MSG 141 - Raw: 7c 50 d2 db 00 00 00 00 9e b5 33 43 9e b5 33 43 ...
+[12:44:16.046] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:16.046] UNKNOWN MSG 32 - Raw: 3f 46 38 00 66 60 bb c0 67 c2 4a c0 d0 1b 85 c0 ...
+[12:44:16.052] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:16.052] UNKNOWN MSG 105 - Raw: 94 8d d2 db 00 00 00 00 a5 27 c7 bf c6 f4 17 bd ...
+[12:44:16.052] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:16.052] UNKNOWN MSG 31 - Raw: 49 46 38 00 7f 10 a1 bc dd 84 a3 3d ca b7 b1 3b ...
+[12:44:16.071] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:16.072] ATTITUDE - Roll: 0.44°, Pitch: -9.17°, Yaw: -177.78°
+[12:44:16.080] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:16.081] ATTITUDE - Roll: 0.44°, Pitch: -9.17°, Yaw: -177.78°
+[12:44:16.101] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:16.101] ATTITUDE - Roll: 0.44°, Pitch: -9.17°, Yaw: -177.78°
+[12:44:16.114] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:16.114] UNKNOWN MSG 105 - Raw: 44 76 d3 db 00 00 00 00 0f db c8 bf 8b 65 c5 bd ...
+[12:44:16.114] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:16.114] UNKNOWN MSG 31 - Raw: 85 46 38 00 30 ff a0 bc f7 7a a3 3d fb b2 b1 3b ...
+[12:44:16.132] MAVLink Message - SysID: 1, CompID: 1, MsgID: 111, Len: 16
+[12:44:16.132] UNKNOWN MSG 111 - Raw: 00 00 00 00 00 00 00 00 d8 86 5d b3 5a 03 00 00 
+[12:44:16.132] MAVLink Message - SysID: 1, CompID: 1, MsgID: 74, Len: 20
+[12:44:16.132] UNKNOWN MSG 74 - Raw: 00 00 00 00 a7 40 21 3b 63 49 33 43 98 f3 f1 b8 ...
+[12:44:16.142] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:16.142] ATTITUDE - Roll: 0.45°, Pitch: -9.17°, Yaw: -177.78°
+[12:44:16.147] MAVLink Message - SysID: 1, CompID: 1, MsgID: 76, Len: 33
+[12:44:16.147] UNKNOWN MSG 76 - Raw: 00 80 8d 43 00 00 00 00 00 00 00 00 00 00 00 00 ...
+[12:44:16.151] MAVLink Message - SysID: 1, CompID: 1, MsgID: 2, Len: 12
+[12:44:16.151] UNKNOWN MSG 2 - Raw: 20 50 c1 0b 10 43 06 00 ad 46 38 00 
+[12:44:16.159] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:16.159] ATTITUDE - Roll: 0.44°, Pitch: -9.17°, Yaw: -177.77°
+[12:44:16.175] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:16.175] UNKNOWN MSG 105 - Raw: f3 5e d4 db 00 00 00 00 62 fe c8 bf 06 fe 74 bd ...
+[12:44:16.175] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:16.175] UNKNOWN MSG 31 - Raw: c0 46 38 00 20 1e a1 bc a8 77 a3 3d 05 9d b1 3b ...
+[12:44:16.189] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:16.190] ATTITUDE - Roll: 0.44°, Pitch: -9.17°, Yaw: -177.77°
+[12:44:16.211] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:16.211] UNKNOWN MSG 32 - Raw: e8 46 38 00 10 61 bb c0 b3 c0 4a c0 16 29 85 c0 ...
+[12:44:16.211] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:16.212] ATTITUDE - Roll: 0.44°, Pitch: -9.17°, Yaw: -177.77°
+[12:44:16.230] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:16.230] ATTITUDE - Roll: 0.44°, Pitch: -9.17°, Yaw: -177.78°
+[12:44:16.233] MAVLink Message - SysID: 1, CompID: 1, MsgID: 85, Len: 51
+[12:44:16.233] UNKNOWN MSG 85 - Raw: fc 46 38 00 00 00 c0 7f 00 00 c0 7f 00 00 c0 7f ...
+[12:44:16.233] MAVLink Message - SysID: 1, CompID: 1, MsgID: 74, Len: 20
+[12:44:16.233] UNKNOWN MSG 74 - Raw: 00 00 00 00 40 eb 29 3b ad 74 33 43 ce 61 47 38 ...
+[12:44:16.251] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:16.251] ATTITUDE - Roll: 0.44°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:16.254] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:16.254] UNKNOWN MSG 31 - Raw: 14 47 38 00 5f 0d a1 bc be 6f a3 3d 54 48 b1 3b ...
+[12:44:16.273] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:16.274] UNKNOWN MSG 105 - Raw: c3 e2 d5 db 00 00 00 00 94 8b c9 bf b2 a5 92 bd ...
+[12:44:16.274] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:16.274] UNKNOWN MSG 31 - Raw: 23 47 38 00 dd 0f a1 bc 32 70 a3 3d af 34 b1 3b ...
+[12:44:16.279] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:16.279] UNKNOWN MSG 32 - Raw: 2d 47 38 00 42 61 bb c0 2b c0 4a c0 bb 2c 85 c0 ...
+[12:44:16.300] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:16.300] ATTITUDE - Roll: 0.44°, Pitch: -9.17°, Yaw: -177.78°
+[12:44:16.312] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:16.312] UNKNOWN MSG 105 - Raw: e3 7d d6 db 00 00 00 00 9d da c4 bf 4a b3 82 bd ...
+[12:44:16.313] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:16.313] UNKNOWN MSG 32 - Raw: 4b 47 38 00 5a 61 bb c0 e6 bf 4a c0 e7 2c 85 c0 ...
+[12:44:16.333] MAVLink Message - SysID: 1, CompID: 1, MsgID: 111, Len: 16
+[12:44:16.333] UNKNOWN MSG 111 - Raw: 00 00 00 00 00 00 00 00 d8 71 57 bf 5a 03 00 00 
+[12:44:16.333] MAVLink Message - SysID: 1, CompID: 1, MsgID: 83, Len: 37
+[12:44:16.333] UNKNOWN MSG 83 - Raw: 60 47 38 00 19 1f 9f bc 00 00 00 00 00 00 00 00 ...
+[12:44:16.333] MAVLink Message - SysID: 1, CompID: 1, MsgID: 85, Len: 51
+[12:44:16.334] UNKNOWN MSG 85 - Raw: 60 47 38 00 00 00 c0 7f 00 00 c0 7f 00 00 c0 7f ...
+[12:44:16.345] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:16.345] UNKNOWN MSG 32 - Raw: 69 47 38 00 4c 61 bb c0 d4 bf 4a c0 d3 2c 85 c0 ...
+[12:44:16.352] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:16.352] UNKNOWN MSG 31 - Raw: 73 47 38 00 0b 21 a1 bc 77 6f a3 3d 2a 2e b1 3b ...
+[12:44:16.373] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:16.374] UNKNOWN MSG 105 - Raw: f6 79 d7 db 00 00 00 00 3e db c4 bf dc c6 ab bd ...
+[12:44:16.374] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:16.374] UNKNOWN MSG 31 - Raw: 8c 47 38 00 65 17 a1 bc 05 72 a3 3d 9e fd b0 3b ...
+[12:44:16.389] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:16.390] ATTITUDE - Roll: 0.44°, Pitch: -9.16°, Yaw: -177.77°
+[12:44:16.392] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:16.392] UNKNOWN MSG 105 - Raw: 24 b4 d7 db 00 00 00 00 7f 8b c5 bf 8d 8f 90 bd ...
+[12:44:16.392] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:16.392] UNKNOWN MSG 31 - Raw: 9a 47 38 00 61 1d a1 bc 77 6f a3 3d 42 dc b0 3b ...
+[12:44:16.413] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:16.413] UNKNOWN MSG 105 - Raw: 16 15 d8 db 00 00 00 00 21 0a c9 bf f4 1f 9a bd ...
+[12:44:16.431] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:16.432] ATTITUDE - Roll: 0.44°, Pitch: -9.17°, Yaw: -177.77°
+[12:44:16.434] MAVLink Message - SysID: 1, CompID: 1, MsgID: 74, Len: 20
+[12:44:16.434] UNKNOWN MSG 74 - Raw: 00 00 00 00 c5 ef 07 3b 96 e1 33 43 fd 9d 69 b9 ...
+[12:44:16.446] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:16.446] UNKNOWN MSG 32 - Raw: cc 47 38 00 e7 60 bb c0 33 bf 4a c0 a9 2a 85 c0 ...
+[12:44:16.461] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:16.462] ATTITUDE - Roll: 0.44°, Pitch: -9.16°, Yaw: -177.77°
+[12:44:16.474] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:16.475] UNKNOWN MSG 105 - Raw: c5 fd d8 db 00 00 00 00 de d5 c8 bf a7 91 c0 bd ...
+[12:44:16.475] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:16.475] UNKNOWN MSG 31 - Raw: ef 47 38 00 20 17 a1 bc 2a 6a a3 3d cc f5 b0 3b ...
+[12:44:16.480] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:16.480] ATTITUDE - Roll: 0.44°, Pitch: -9.16°, Yaw: -177.77°
+[12:44:16.501] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:16.501] ATTITUDE - Roll: 0.44°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:16.510] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:16.510] ATTITUDE - Roll: 0.44°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:16.531] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:16.531] ATTITUDE - Roll: 0.44°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:16.534] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:16.534] UNKNOWN MSG 31 - Raw: 2a 48 38 00 f2 05 a1 bc 96 66 a3 3d be c9 b0 3b ...
+[12:44:16.544] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:16.545] UNKNOWN MSG 32 - Raw: 30 48 38 00 d4 60 bb c0 bf bf 4a c0 cc 28 85 c0 ...
+[12:44:16.559] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:16.559] ATTITUDE - Roll: 0.44°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:16.575] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:16.575] UNKNOWN MSG 105 - Raw: 95 81 da db 00 00 00 00 31 0d c6 bf 98 cd 7e bd ...
+[12:44:16.575] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:16.575] UNKNOWN MSG 31 - Raw: 52 48 38 00 59 00 a1 bc 6e 63 a3 3d fb a3 b0 3b ...
+[12:44:16.577] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:16.578] UNKNOWN MSG 32 - Raw: 57 48 38 00 88 60 bb c0 0e c0 4a c0 88 28 85 c0 ...
+[12:44:16.592] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:16.592] UNKNOWN MSG 105 - Raw: 25 cf da db 00 00 00 00 fa ac c6 bf 04 3a 95 bd ...
+[12:44:16.610] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:16.611] UNKNOWN MSG 32 - Raw: 75 48 38 00 5c 60 bb c0 69 c0 4a c0 a6 29 85 c0 ...
+[12:44:16.611] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:16.611] ATTITUDE - Roll: 0.44°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:16.629] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:16.629] ATTITUDE - Roll: 0.44°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:16.632] MAVLink Message - SysID: 1, CompID: 1, MsgID: 85, Len: 51
+[12:44:16.633] UNKNOWN MSG 85 - Raw: 89 48 38 00 00 00 c0 7f 00 00 c0 7f 00 00 c0 7f ...
+[12:44:16.644] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:16.644] UNKNOWN MSG 32 - Raw: 93 48 38 00 3a 60 bb c0 7b c0 4a c0 f7 2a 85 c0 ...
+[12:44:16.653] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:16.653] UNKNOWN MSG 105 - Raw: d4 b7 db db 00 00 00 00 a8 f6 c5 bf 40 e0 83 bd ...
+[12:44:16.653] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:16.653] UNKNOWN MSG 31 - Raw: a2 48 38 00 a4 e5 a0 bc 8c 66 a3 3d 47 2c b1 3b ...
+[12:44:16.671] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:16.672] ATTITUDE - Roll: 0.44°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:16.680] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:16.681] ATTITUDE - Roll: 0.44°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:16.692] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:16.692] UNKNOWN MSG 105 - Raw: f4 52 dc db 00 00 00 00 89 c2 c8 bf 5e 03 7a bd ...
+[12:44:16.713] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:16.713] UNKNOWN MSG 105 - Raw: 84 a0 dc db 00 00 00 00 f8 49 c7 bf e5 16 9f bd ...
+[12:44:16.714] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:16.714] UNKNOWN MSG 31 - Raw: dd 48 38 00 4c d4 a0 bc 39 65 a3 3d a6 a7 b1 3b ...
+[12:44:16.731] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:16.731] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:16.737] MAVLink Message - SysID: 1, CompID: 1, MsgID: 245, Len: 2
+[12:44:16.737] UNKNOWN MSG 245 - Raw: 00 01 
+[12:44:16.737] MAVLink Message - SysID: 1, CompID: 1, MsgID: 4, Len: 14
+[12:44:16.737] UNKNOWN MSG 4 - Raw: 6e 09 dd db 00 00 00 00 66 0e 00 00 00 00 
+[12:44:16.738] MAVLink Message - SysID: 1, CompID: 1, MsgID: 1, Len: 31
+[12:44:16.738] SYS_STATUS - Voltage: 65.54V, Current: -0.01A, Battery: 0%
+[12:44:16.746] MAVLink Message - SysID: 1, CompID: 1, MsgID: 32, Len: 28
+[12:44:16.746] UNKNOWN MSG 32 - Raw: 00 49 38 00 01 60 bb c0 43 c1 4a c0 90 2c 85 c0 ...
+[12:44:16.752] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:16.752] UNKNOWN MSG 105 - Raw: a3 3b dd db 00 00 00 00 91 a0 c8 bf 95 34 ac bd ...
+[12:44:16.752] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:16.752] UNKNOWN MSG 31 - Raw: 05 49 38 00 40 d0 a0 bc 38 65 a3 3d 90 ec b1 3b ...
+[12:44:16.774] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:16.775] UNKNOWN MSG 105 - Raw: 33 89 dd db 00 00 00 00 d5 2d c8 bf 4c 64 89 bd ...
+[12:44:16.775] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:16.775] UNKNOWN MSG 31 - Raw: 19 49 38 00 ad d5 a0 bc 8c 65 a3 3d 2c fa b1 3b ...
+[12:44:16.780] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:16.781] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
+[12:44:16.792] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:16.792] UNKNOWN MSG 105 - Raw: c3 d6 dd db 00 00 00 00 c9 34 c6 bf c0 a5 73 bd ...
+[12:44:16.792] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:16.792] UNKNOWN MSG 31 - Raw: 2c 49 38 00 0a d9 a0 bc 3d 64 a3 3d 63 02 b2 3b ...
+[12:44:16.814] MAVLink Message - SysID: 1, CompID: 1, MsgID: 105, Len: 62
+[12:44:16.814] UNKNOWN MSG 105 - Raw: 53 24 de db 00 00 00 00 11 29 c5 bf bb 03 93 bd ...
+[12:44:16.814] MAVLink Message - SysID: 1, CompID: 1, MsgID: 31, Len: 32
+[12:44:16.814] UNKNOWN MSG 31 - Raw: 40 49 38 00 6b dc a0 bc 3a 64 a3 3d 0e e3 b1 3b ...
+[12:44:16.832] MAVLink Message - SysID: 1, CompID: 1, MsgID: 111, Len: 16
+[12:44:16.832] UNKNOWN MSG 111 - Raw: 00 00 00 00 00 00 00 00 90 bf 15 dd 5a 03 00 00 
+[12:44:16.841] MAVLink Message - SysID: 1, CompID: 1, MsgID: 30, Len: 28
+[12:44:16.842] ATTITUDE - Roll: 0.45°, Pitch: -9.16°, Yaw: -177.78°
